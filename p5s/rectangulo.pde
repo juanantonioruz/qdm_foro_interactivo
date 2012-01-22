@@ -4,8 +4,10 @@ class Rectangulo {
 	float widtho;
 	float heighto;
 	String nombre;
+	int valor;
 	public Rectangulo(String n) {
 	this.nombre=n;
+	this.valor=random(100);
 	}
 	public Rectangulo(float _x, float _y) {
 		xo = _x;
@@ -31,7 +33,7 @@ class Rectangulo {
 	}
 	
 	public String toString(){
-		return "desde metodoToString::"+nombre;
+		return "desde metodoToString::"+nombre+" valor"+valor;
 		
 	}
 }
