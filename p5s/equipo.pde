@@ -3,8 +3,8 @@ class Equipo {
 	String nombre;
 	color col;
 	String barrio;
-	ArrayList usuarios = new ArrayList();
-
+	List<Usuario> usuarios = new ArrayList<Usuario>();
+	List<ComentarioForo> comentarios=new ArrayList<ComentarioForo>();
 	public Equipo(int id, String nombre, String barrio){
 		this.id=id;
 		this.nombre=nombre;

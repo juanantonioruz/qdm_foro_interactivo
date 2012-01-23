@@ -22,4 +22,18 @@ class Usuario {
 		comentarios.add(c);
 	}
  
+ 
+  	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (nombre == null) {
+			if (obj.nombre != null)
+				return false;
+		} else if (!nombre.equals(obj.nombre))
+			return false;
+		return true;
+	}
+ 
 }

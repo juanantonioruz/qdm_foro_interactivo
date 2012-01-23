@@ -4,6 +4,7 @@ class ComentarioForo {
 	int parent;
 	int id;
 	Usuario usuario;
+	List<ComentarioForo> children=new ArrayList();
 	public ComentarioForo(int id, int parent, String titulo,String texto, Usuario usuario){
 		this.id=id;
 		this.parent=parent;
