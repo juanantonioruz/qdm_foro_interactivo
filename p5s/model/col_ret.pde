@@ -17,6 +17,10 @@ class ColRet extends ElementoReticulaAbstract implements TieneMedidaVariableAnte
 		return getMedidaVariable();
 		
 	}
+		public float getWidthFinal(){
+		return medidaVariable;
+		
+	}
 	
 	public float getHeight(){
 		return fila.getHeight();

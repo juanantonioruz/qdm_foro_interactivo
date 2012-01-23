@@ -7,7 +7,9 @@ public void reset(){
 	
 }
 void setup(){
-	font=loadFont("Courier New");
+	font=loadFont("Courier");
+	//textFont(font, 180); 
+	
 	colorMode(HSB, 100);
 	background(80);
 	size(800, 600);
@@ -15,10 +17,7 @@ void setup(){
 	
 	 reticulaRet = new ReticulaRet("foros.xml",200, 80, width - 220, height-90);
 
-	//loadEquipos();	
-	//println("equipos size::: "+equipos.size());
-	//ServicioLoadForosXML servicioLoadForos=new ServicioLoadForosXML();
-	//comentarios=servicioLoadForos.loadComentarios(equipos);
+	
 
 }
 void draw(){
@@ -26,9 +25,9 @@ void draw(){
 	noStroke();
 	reticulaRet.display();
 	fill(10);	
-	textFont(font,12);
-	text("mensajes:"+reticulaRet.mensajes.size(),100,100);
-	text("usuarios:"+reticulaRet.usuarios.size(),100,120);
+	//textFont(font,102);
+	log.info("mensajes:"+reticulaRet.mensajes.size(),100,100);
+	log.info("usuarios:"+reticulaRet.usuarios.size(),100,120);
 	
 		
 }

@@ -37,6 +37,9 @@ class  CeldaRet extends ElementoReticulaAbstract implements TieneMedidaVariableA
 	public float getWidth() {
 		return columna.getWidth();
 	}
+	public float getWidthFinal() {
+		return columna.getWidthFinal();
+	}
 
 	public float getX() {
 		return columna.getX();
