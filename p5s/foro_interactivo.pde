@@ -9,8 +9,8 @@ public void reset(){
 void setup(){
 	font=loadFont("Courier New");
 	colorMode(HSB, 100);
-	background(100);
-	size(400, 400);
+	background(80);
+	size(800, 600);
 	smooth();
 	
 	 reticulaRet = new ReticulaRet("foros.xml",200, 80, width - 220, height-90);
@@ -22,7 +22,9 @@ void setup(){
 
 }
 void draw(){
-	background(100);
+	background(80);
+	noStroke();
+	reticulaRet.display();
 	fill(10);	
 	textFont(font,12);
 	text("mensajes:"+reticulaRet.mensajes.size(),100,100);
@@ -31,7 +33,31 @@ void draw(){
 		
 }
 
+	public void mouseClicked() {
+			reticulaRet.raton(mouseX, mouseY);
+	
+	}
+public void keyPressed() {
+		 if(keyCode==UP){
+			log.debug("UP!");
+			reticulaRet.selectUP();
+		}else if(keyCode==DOWN){
+			reticulaRet.selectDOWN();
+			log.debug("DOWN");
+		}else if(keyCode==LEFT){
+			reticulaRet.selectLEFT();
+			log.debug("LEFT");
+		}else if(keyCode==RIGHT){
+			reticulaRet.selectRIGHT();
+			log.debug("RIGHT");
+		}else if(key=='r'){
+		
+			log.info("RESET!");
+			reticulaRet.reset();
 
+			
+		}
+	}
 
 
 
