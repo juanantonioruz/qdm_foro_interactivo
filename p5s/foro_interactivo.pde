@@ -10,11 +10,11 @@ void setup(){
 //	font=loadFont("Courier");
 //textMode(SCREEN);	
 //textFont(font, 180); 
-	
+	hint(DISABLE_OPENGL_2X_SMOOTH);
 	colorMode(HSB, 100);
 	background(80);
 	size(800, 600);
-	smooth();
+	//smooth();
 	
 	 reticulaRet = new ReticulaRet("foros.xml",200, 80, width - 220, height-90);
 
