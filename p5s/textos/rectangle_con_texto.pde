@@ -57,9 +57,12 @@ class RectangleConTexto {
 			if(anchoRectangle<altoRectangle) limite=anchoRectangle;
 			float size = map(limite, 0, 150, 7, 15);
 			//textSize(size);
+			//	textMode(SCREEN);
+			
 			float transparenciaDown = map(altoRectangle, 0, 150, 50, 100);
 			log.debug(mensaje);
-			if(size>=8 ){
+			text(mensaje, posXRectangle, posYRectangle, anchoRectangle, altoRectangle);
+			if(size==1 ){
 			for (int i = 0; i < mensaje.length(); i++) {
 				char charAt = mensaje.charAt(i);
 				float textWidtho = textWidth(charAt);

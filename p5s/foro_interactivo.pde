@@ -7,8 +7,9 @@ public void reset(){
 	
 }
 void setup(){
-	font=loadFont("Courier");
-	//textFont(font, 180); 
+//	font=loadFont("Courier");
+//textMode(SCREEN);	
+//textFont(font, 180); 
 	
 	colorMode(HSB, 100);
 	background(80);
