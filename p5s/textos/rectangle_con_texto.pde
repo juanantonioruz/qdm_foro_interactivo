@@ -56,7 +56,7 @@ class RectangleConTexto {
 			float limite=altoRectangle;
 			if(anchoRectangle<altoRectangle) limite=anchoRectangle;
 			float size = map(limite, 0, 150, 7, 15);
-			textSize(size);
+			//textSize(size);
 			float transparenciaDown = map(altoRectangle, 0, 150, 50, 100);
 			log.debug(mensaje);
 			if(size>=8 ){

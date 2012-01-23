@@ -258,10 +258,8 @@ float anchoColumna = getWidth() / cc.columnas;
 				fill(0);
 				//|| celda==celdaSeleccionada ampliar condicion para que aparezca texto en celda seleccionada
 				//(celda.getHeight()==celda.getHeightFinal()
-				if(muestraTexto || celda==celdaSeleccionada){
-				celda.rectangleConTexto.setMedidas(celda.getX(), celda.getY(), celda.getWidthFinal(), celda.getHeightFinal());
+				celda.rectangleConTexto.setMedidas(celda.getX(), celda.getY(), celda.getWidth(), celda.getHeight());
 				celda.rectangleConTexto.display(false);
-				}
 				// text(celda.comentario.usuario.nombre, celdaX, celdaY +
 				// celdaHeight / 4);
 				// text(celda.comentario.titulo, celdaX, celdaY + celdaHeight

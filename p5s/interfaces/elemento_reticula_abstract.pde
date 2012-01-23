@@ -21,6 +21,7 @@ class ElementoReticulaAbstract implements TieneMedidaVariableAnterior, Displayab
 
 	public float getMedidaVariable() {
 		//TODO esto es diferente segun si se hace mas pequenyo o mas grande
+	//	if(contador>=pasos) return medidaVariable;
 		return map(contador, 0, pasos, medidaVariableAnterior, medidaVariable);
 			
 	}
