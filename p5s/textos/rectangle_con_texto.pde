@@ -55,37 +55,16 @@ class RectangleConTexto {
 			rect(posXRectangle, posYRectangle, anchoRectangle, altoRectangle);
 			float limite=altoRectangle;
 			if(anchoRectangle<altoRectangle) limite=anchoRectangle;
-			float size = map(limite, 0, 150, 7, 15);
+			//float size = map(limite, 0, 150, 7, 15);
 			//textSize(size);
 			//	textMode(SCREEN);
 			
-			float transparenciaDown = map(altoRectangle, 0, 150, 50, 100);
+			//float transparenciaDown = map(altoRectangle, 0, 150, 50, 100);
 			log.debug(mensaje);
-			text(mensaje, posXRectangle, posYRectangle, anchoRectangle, altoRectangle);
-			if(size==1 ){
-			for (int i = 0; i < mensaje.length(); i++) {
-				char charAt = mensaje.charAt(i);
-				float textWidtho = textWidth(charAt);
-				fill(0, transparenciaDown);
-				text(charAt, posXLetter + margenAncho-1, posYLetter + textAscent() + margenAlto-1);
-				if ((posXLetter + textWidtho + margenAncho * 2) < (anchoRectangle + posXRectangle)) {
-					posXLetter += textWidtho;
-				} else {
-					resetX();
-					float incrementoAltura = textAscent() * 2;
-					if ((posYLetter + margenAlto * 3 + incrementoAltura) < (altoRectangle + posYRectangle)) {
-						posYLetter += incrementoAltura;
-					} else {
-						break;
-					}
-				}
-
-				if (i == mensaje.length() - 1) {
-					resetBoth();
-				}
-			}
-			}
-			resetBoth();
+			float margen=10;
+			text(mensaje, posXRectangle+margen, posYRectangle+margen, anchoRectangle-margen, altoRectangle-margen);
+			// desactivado el recuento de letras y calculo de ancho ... consume mucho procesador
+			
 		}
 		private void resetBoth() {
 			resetX();

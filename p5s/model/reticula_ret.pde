@@ -508,6 +508,25 @@ float anchoColumna = getWidth() / cc.columnas;
 	public void reset() {
 		recalculaRet(true);
 	}
-	
+	public void selecciona(ComentarioForo comentarioTimeSel) {
+		buscada = null;
+		for (CeldaRet c : celdasPrimeraColumna) {
+			busca(c, comentarioTimeSel);
+			if (buscada != null) {
+				celdaSeleccionada = buscada;
+			}
+		}
+		recalculaRet();
+
+	}
+	public void busca(CeldaRet celda, ComentarioForo c) {
+		if (celda.comentario == c) {
+			buscada = celda;
+			return;
+		} else
+			for (CeldaRet cc : celda.childdren)
+				busca(cc, c);
+
+	}
 	
 }
