@@ -11,8 +11,24 @@
 						}
 					function openModal(ide, usuario, titulo, texto){
 					//	console.log(usuario);
-						$('#titulo').html(usuario+'<br>'+titulo+'<br>'+texto.substring(0,300)+"...");
-
+						$('#comentario_anterior').html(usuario+'<br>'+titulo+'<br>'+texto.substring(0,300)+"...");
+						  $('.window .close').click(function (e) {
+						        //Cancel the link behavior
+						        e.preventDefault();
+						        $('#mask, .window').hide();
+						    });    
+						  $('.window .enviar').click(function (e) {
+						        //Cancel the link behavior
+						        e.preventDefault();
+						        //alert('enviando!'+$('#comentario').val());
+						        var pjs = Processing.getInstanceById('foro_interactivo');
+						        pjs.newComentario($('#titulo').val(), $('#comentario').val());
+						        $('#mask, .window').hide();
+						    });    
+						//  $('#mask').click(function () {
+						//        $(this).hide();
+						//        $('.window').hide();
+						//    });         
 							   var id = "#dialog";
         //Get the screen height and width
         var maskHeight = $(document).height();
@@ -38,21 +54,8 @@
      
   
 						}
-					$(document).ready(function() {  
-					    //if close button is clicked
-					    $('.window .close').click(function (e) {
-					        //Cancel the link behavior
-					        e.preventDefault();
-					        $('#mask, .window').hide();
-					    });     
-					     
-					    //if mask is clicked
-					    $('#mask').click(function () {
-					        $(this).hide();
-					        $('.window').hide();
-					    });         
-					     
-					});
+
+
 
 						
 </script>
@@ -92,9 +95,10 @@
     <div id="dialog" class="window">
          <form id="formulario">
          <b>Respondiendo a:</b>
-         <div id="titulo" style="width:50%;">  </div>
+         <div id="comentario_anterior" style="width:50%;">  </div>
+         <input type="text" id="titulo" size="80" /><br>
          <br>
-         <textarea name="comentario" rows="20" cols="90">escribe aqui tu comentario</textarea><br>
+         <textarea id="comentario" rows="20" cols="90">escribe aqui tu comentario</textarea><br>
          </form>
         <!-- close button is defined as close class -->
         <a href="#" class="close" style="color:white;background-color:black; padding:5px;">Cerrar</a>

@@ -8,6 +8,9 @@ public void reset(){
 	log.info("parandosss desde javascript to process");
 	
 }
+public void newComentario(String titulo, String texto){
+	println("comentarioAntID:"+reticulaRet.celdaSeleccionada.comentario.id+":::"+titulo+"---"+texto+"________from p5s");
+}
 void setup(){
 //	font=loadFont("Courier");
 //textMode(SCREEN);	
