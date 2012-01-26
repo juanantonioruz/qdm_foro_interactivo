@@ -51,8 +51,14 @@ class RectangleConTexto {
 		}
 
 		public void display(boolean contorno){
-			if(contorno)
+			if(contorno){
+			pushStyle();
+			stroke(0);
+			strokeWeight(3);
+			fill(100);
 			rect(posXRectangle, posYRectangle, anchoRectangle, altoRectangle);
+			popStyle();
+			}
 			float limite=altoRectangle;
 			if(anchoRectangle<altoRectangle) limite=anchoRectangle;
 			//float size = map(limite, 0, 150, 7, 15);
