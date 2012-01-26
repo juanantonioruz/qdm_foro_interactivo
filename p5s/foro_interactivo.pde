@@ -71,11 +71,16 @@ public void keyPressed() {
 			reticulaRet.selectRIGHT();
 			log.debug("RIGHT");
 		}else if(key=='r'){
-		
 			log.info("RESET!");
 			reticulaRet.reset();
 
 			
+		}else if(key=='c'){
+		ComentarioForo comentarioSeleccionado=reticulaRet.celdaSeleccionada.comentario;
+		String t=comentarioSeleccionado.texto;
+		String tt=t.substring(50);
+		  openModal(comentarioSeleccionado.id,comentarioSeleccionado.usuario.nombre, comentarioSeleccionado.titulo,comentarioSeleccionado.texto);
+		
 		}
 	}
 

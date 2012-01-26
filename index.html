@@ -2,16 +2,111 @@
 <head>
 <title>hola mundo js</title>
   <script src="javascripts/processing-1.3.6.js"></script> 
+    <script src="jquery-1.7.1.js"></script>
    <script src="javascripts/toxiclibs.js"></script>
     <script type="text/javascript">
 					function drawSomeText(id) {
 						var pjs = Processing.getInstanceById(id);
 							pjs.reset();
 						}
-</script>
+					function openModal(ide, usuario, titulo, texto){
+					//	console.log(usuario);
+						$('#titulo').html(usuario+'<br>'+titulo+'<br>'+texto.substring(0,300)+"...");
+
+							   var id = "#dialog";
+        //Get the screen height and width
+        var maskHeight = $(document).height();
+        var maskWidth = $(window).width();
+     
+        //Set height and width to mask to fill up the whole screen
+        $('#mask').css({'width':maskWidth,'height':maskHeight});
+         
+        //transition effect     
+        $('#mask').fadeIn(1000);    
+        $('#mask').fadeTo("slow",0.8);  
+     
+        //Get the window height and width
+        var winH = $(window).height();
+        var winW = $(window).width();
+               
+        //Set the popup window to center
+        $(id).css('top',  winH/2-$(id).height()/2);
+        $(id).css('left', winW/2-$(id).width()/2);
+     
+        //transition effect
+        $(id).fadeIn(2000); 
+     
   
+						}
+					$(document).ready(function() {  
+					    //if close button is clicked
+					    $('.window .close').click(function (e) {
+					        //Cancel the link behavior
+					        e.preventDefault();
+					        $('#mask, .window').hide();
+					    });     
+					     
+					    //if mask is clicked
+					    $('#mask').click(function () {
+					        $(this).hide();
+					        $('.window').hide();
+					    });         
+					     
+					});
+
+						
+</script>
+    <style>
+ 
+/* Z-index of #mask must lower than #boxes .window */
+#mask {
+  position:absolute;
+  z-index:9000;
+  background-color:gray;
+  display:none;
+}
+   
+#boxes .window {
+  position:absolute;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+}
+ 
+ 
+/* Customize your modal window here, you can add background image too */
+#boxes #dialog {
+  width:100%; 
+  height:100%;
+}
+</style>
 </head>
 <body>
+<div id="boxes">
+ 
+     
+    <!-- #customize your modal window here -->
+ 
+    <div id="dialog" class="window">
+         <form id="formulario">
+         <b>Respondiendo a:</b>
+         <div id="titulo" style="width:50%;">  </div>
+         <br>
+         <textarea name="comentario" rows="20" cols="90">escribe aqui tu comentario</textarea><br>
+         </form>
+        <!-- close button is defined as close class -->
+        <a href="#" class="close" style="color:white;background-color:black; padding:5px;">Cerrar</a>
+        &nbsp;&nbsp;
+        <a href="#" class="enviar" style="color:white;background-color:black; padding:5px;">Enviar</a>
+ 
+    </div>
+ 
+     
+    <!-- Do not remove div#mask, because you'll need it to fill the whole screen --> 
+    <div id="mask"></div>
+</div>
 <canvas id="foro_interactivo" 
 data-processing-sources="p5s/foro_interactivo.pde p5s/log.pde p5s/rectangulo.pde p5s/equipo.pde p5s/servicio_toxi_color.pde 
 p5s/model/reticula_ret.pde 
@@ -37,6 +132,8 @@ p5s/calculos/calculo_children_sel.pde
 p5s/calculos/resultado_busca_selda_seleccion.pde 
 p5s/usuario.pde 
 p5s/comentario_foro.pde"></canvas>  
-<a href="#" onclick="drawSomeText('foro_interactivo')" text="lanza" >jolin</a>  
+<!--  
+<a href="#" onclick="drawSomeText('foro_interactivo')" text="lanza" >jolin</a>
+-->  
 </body>
 </html>
