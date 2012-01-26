@@ -27,7 +27,7 @@ void setup(){
 Refresco r=new Refresco();
 void draw(){
 	background(100);
-	if(frameCount%300==0){
+	if(frameCount%(30*30)==0){
 		CeldaRet c=reticulaRet.celdaSeleccionada;
 		reticulaRet.incluyeXML("foros_new.xml",c.comentario);
 		navegadorTemporalComentarios.init(reticulaRet.comentariosOrdenadosFecha);
