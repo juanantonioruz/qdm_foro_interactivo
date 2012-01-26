@@ -1,8 +1,15 @@
 class ServicioLoadForosXML {
-ArrayList loadComentarios(ArrayList equipos){
+
+
+	  List<Equipo> equipos;
+	public ServicioLoadForosXML( List<Equipo> equipos) {
+		this.equipos = equipos;
+	}
+
+	ArrayList procesaXML(String xmlFile){
 	ArrayList comentarios=new ArrayList();
 
-	XMLElement xml = new XMLElement(this, "pde/foros.xml");
+	XMLElement xml = new XMLElement(this, "p5s/"+xmlFile);
 	int numSites = xml.getChildCount();
 	XMLElement[] kids = xml.getChildren();
 	//println("numero de elementos en " + kids.length);

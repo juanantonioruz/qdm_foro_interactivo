@@ -8,15 +8,17 @@ class NavegadorTemporalComentarios {
 	private int altoComTime;
 
 	public NavegadorTemporalComentarios(List<ComentarioEscale> comentariosOrdenadosFecha, float _x,  float _width ) {
-		comentariosTime = comentariosOrdenadosFecha;
 		this._x = _x;
 		this._width = _width;
-		int numeroComentarios = comentariosTime.size();
-		
-		 widthComentarioTime=_width/numeroComentarios;
+		init(comentariosOrdenadosFecha);
 
 	}
-
+	public void init(List<ComentarioForo> comentariosOrdenadosFecha) {
+		comentariosTime = comentariosOrdenadosFecha;
+		int numeroComentarios = comentariosTime.size();
+		
+		 widthComentarioTime=this._width/numeroComentarios;
+	}
 	public void display(CeldaRet celdaSeleccionada) {
 		for(int i=0; i<comentariosTime.size(); i++){
 			ComentarioForo comentario = comentariosTime.get(i);

@@ -1,25 +1,32 @@
 class ServicioMensajes {
-	public List<ComentarioForo> organizaMensajes;
+	public List<ComentarioForo> organizaMensajes=new ArrayList<ComentarioForo>();
 	public List<Usuario> usuarios=new ArrayList<Usuario>();
+	public List<ComentarioForo> comentarios=new ArrayList<ComentarioForo>();
 
-	public ServicioMensajes(String xmlFile) {
-		organizaMensajes = organizaMensajes( xmlFile);
+
+	public ServicioMensajes() {
 	}
 	
-	List<ComentarioForo> organizaMensajes( String xmlFile) {
-		 comentarios = new ServicioLoadEquipos().loadXML( xmlFile);
+	public List<ComentarioForo> loadMensajes(List<ComentarioForo> comentarios) {
+		this.comentarios=comentarios;
 		 for(ComentarioForo c:comentarios){
 			 if(!usuarios.contains(c.usuario)){
 				 usuarios.add(c.usuario);
 			 }
 		 }
+		List<ComentarioForo> organizaMensajes2 = organizaLosMensajes();
+		for(ComentarioForo c:organizaMensajes2){
+			organizaMensajes.add(c);
+			}
+		return organizaMensajes2;
+	}
+	 List<ComentarioForo> organizaLosMensajes() {
 		log.info("numero mensajes:" + comentarios.size());
 		List<Usuario> usuariosParticipantes = dameUsuariosParticipantes(comentarios);
 		log.info("usuarios:" + usuariosParticipantes.size());
 		
 		return relacionaParentChildrens(comentarios);
 	}
-
  List<UsuarioEscale> dameUsuariosParticipantes(List<ComentarioForo> comentarios) {
 		List<Usuario> usuarios = new ArrayList<Usuario>();
 		for (ComentarioForo ce : comentarios) {

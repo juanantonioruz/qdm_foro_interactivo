@@ -12,27 +12,51 @@ class ReticulaRet implements TreeDisplayable{
 	boolean muestraTexto=false;
 	CalculoProfundidadColumna cc;
 	 CeldaRet celdaSeleccionada;
+	List<ComentarioEscale> comentariosExistentesDB;
+
+	 ServicioLoadEquipos servicioLoadEquipos;
 	
 	public ReticulaRet(String xml, float x1, float y1, float ancho, float alto){
 		this.x1 = x1;
 		this.y1 = y1;
 		this.ancho = ancho;
 		this.alto = alto;
-		loadComentariosXML(xml);
+		servicioLoadEquipos = new ServicioLoadEquipos();
+		comentariosExistentesDB = servicioLoadEquipos.loadXML(xml);
+		resetReticulaConComentariosDB(false);
+
+	}
+	
+	private void resetReticulaConComentariosDB(boolean menos) {
+		loadComentariosXML();
 
 		cc = new CalculoProfundidadColumna(mensajes);
 		log.info("profundidad: " + cc.columnas);
+
 		generaFilasYColumnasVinculadasSinCeldasComentarios(cc);
-		// LAS FILAS Y LAS COLUMNAS YA ESTAN VINCULADAS
-		// AHORA HAY QUE CARGAR LAS CELDAS Y VINCULARLAS entre ellas
-		// (parent/anterior), y colcarlas en COLUMNAS de filas
+
 
 		cargaCeldasComentarios();
+
 		seleccionaPrimeraCeldaComentario();
+
 		// calculo de posiciones
 		calculaPosicionesTamanyosReticulaInicial(true);
-
 	}
+	
+	public void incluyeXML(String xml, ComentarioEscale c){
+		List<ComentarioForo> nuevos = servicioLoadEquipos.loadXML(xml);
+		mensajes=new ArrayList<ComentarioForo>();
+		for(ComentarioForo n:nuevos)
+		comentariosExistentesDB.add(n);
+		for(ComentarioForo cc:comentariosExistentesDB){
+			cc.children=new ArrayList<ComentarioForo>();
+		}
+		resetReticulaConComentariosDB(true);
+		selecciona(c);
+		recalculaRet();
+	}
+	
 	boolean normalizada;
 	private void normalizaFilas() {
 		float altura = alto / filas.size();
@@ -180,12 +204,14 @@ float anchoColumna = getWidth() / cc.columnas;
 	
 	
 	private void loadComentariosXML(String xml) {
-		ServicioMensajes servicioMensajes = new ServicioMensajes(xml);
+			 ServicioMensajes servicioMensajes= new ServicioMensajes();
+
+		servicioMensajes.loadMensajes(comentariosExistentesDB);
 		usuarios = servicioMensajes.usuarios;
 		mensajes = servicioMensajes.organizaMensajes;
 		log.info("mensajessize:" + mensajes.size());
-		log.info("usuarios:" + usuarios.size());
 		comentariosOrdenadosFecha = servicioMensajes.getComentariosOrdenadosFecha();
+	
 	}
 	public float getX() {
 		return x1;

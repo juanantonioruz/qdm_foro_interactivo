@@ -5,16 +5,19 @@ class NavegadorUsuarios {
 	private float _y;
 	private float _x;
 
-	public NavegadorUsuarios( List<UsuarioEscale> usuarios, float _height, float _x, float _y) {
+	public NavegadorUsuarios( List<UsuarioForo> usuarios, float _height, float _x, float _y) {
 		usuariosForo = usuarios;
 		this._height = _height;
 		this._x = _x;
 		this._y = _y;
-//TODO		Collections.sort(usuariosForo, new ComparatorEquipoUsuario());
-		int numeroUsuarios = usuariosForo.size();
-		heightUsuarioBox = _height / numeroUsuarios;
+				init(usuarios);
+		
 	}
-
+public void init(List<UsuarioForo> usuarios) {
+		// TODO Collections.sort(usuariosForo, new ComparatorEquipoUsuario());
+		int numeroUsuarios = usuarios.size();
+		heightUsuarioBox = this._height / numeroUsuarios;
+	}
 	public void display(CeldaRet celdaSeleccionada) {
 		for(int j=0; j<usuariosForo.size(); j++){
 			UsuarioEscale usu=usuariosForo.get(j);
