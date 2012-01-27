@@ -67,8 +67,8 @@ class RectangleConTexto {
 			
 			//float transparenciaDown = map(altoRectangle, 0, 150, 50, 100);
 			log.debug(mensaje);
-			float margen=10;
-			text(mensaje, posXRectangle+margen, posYRectangle+margen, anchoRectangle-margen, altoRectangle-margen);
+			float margen=20;
+			text(mensaje, posXRectangle+margen, posYRectangle+margen, anchoRectangle-(margen*3)-20, (altoRectangle-margen)-5);
 			// desactivado el recuento de letras y calculo de ancho ... consume mucho procesador
 			
 		}

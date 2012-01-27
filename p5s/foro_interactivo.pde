@@ -21,7 +21,7 @@ void setup(){
 	size(800, 600);
 	//smooth();
 	
-	reticulaRet = new ReticulaRet("equipos.xml", "21.xml",200, 80, width - 220, height-90);
+	reticulaRet = new ReticulaRet("equipos_femmes.xml", "21.xml",200, 80, width - 220, height-90);
 	navegadorUsuarios=new NavegadorUsuarios(reticulaRet.usuarios, reticulaRet.getHeight(), reticulaRet.getX(), reticulaRet.getY());
 	navegadorTemporalComentarios=new NavegadorTemporalComentarios(reticulaRet.comentariosOrdenadosFecha, reticulaRet.getX(),  reticulaRet.getWidth());
 
