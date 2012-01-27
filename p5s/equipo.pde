@@ -21,8 +21,11 @@ class Equipo {
 		return u;
 	}	
  	public void setColor(toxi.color.TColor tColor) {
-		col = color(mapeaValor(tColor.hue()), mapeaValor(tColor.saturation()),
-				mapeaValor(tColor.brightness()));
+ 	float hueMap=mapeaValor(tColor.hue());
+ 	float saturationMap=mapeaValor(tColor.saturation());
+ 	float brightMap=mapeaValor(tColor.brightness());
+ 		log.debug("hue: "+hueMap+". Sat: "+saturationMap+ ". Brig: "+brightMap);
+		col = color(hueMap, saturationMap,brightMap);
 	}
  	protected float mapeaValor(float ta) {
 	return map(ta, 0, 1, 0, 100);

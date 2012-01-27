@@ -53,6 +53,7 @@ public void init(List<UsuarioForo> usuarios) {
 				log.info("click en usuarios"+posUsuario+" usu: "+usuarioForo);
 				List<ComentarioForo> comentarios = usuarioForo.comentarios;
 				// TODO : Collections.sort(comentarios, new ComparatorFecha());
+				log.debug(usuarioForo.equipo.nombre);
 				return comentarios.get(0);
 			}
 		return null;

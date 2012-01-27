@@ -4,7 +4,7 @@ class ServicioLoadEquipos {
 	ServicioLoadForosXML forosXMLLoad;
 	ServicioLoadEquiposXML loadEquipos=new ServicioLoadEquiposXML();
 	
-	public ServicioLoadEquipos() {
+	public ServicioLoadEquipos(String xmlEquipos) {
 			/*
 			equipos.add(new Equipo( 1, "bamako", "Niamakoro y Sicoro"));
 			equipos.add(new Equipo( 2, "barcelona", "Casc Antic"));
@@ -17,9 +17,13 @@ class ServicioLoadEquipos {
 			equipos.add(new Equipo( 9, "rio",  "La Maré y Rio das Pedras"));
 			equipos.add(new Equipo( 10, "sale", "Karyan El Oued"));
 			*/
-			equipos=loadEquipos.procesaXML("equipos_jeunes.xml");
+			
+			equipos=loadEquipos.procesaXML(xmlEquipos);
+			for(Equipo e:equipos)
+			log.info(e.id+"-"+e.nombre);
 			ArrayList listaColoresEquipo = new ServicioToxiColor().iniciaColoresEquiposBis();
 			for (int i = 0; i < equipos.size(); i++){
+			//println(equipos.get(i).nombre+"---"+listaColoresEquipo.get(i));
 				equipos.get(i).setColor(listaColoresEquipo.get(i));
 			}
 			 forosXMLLoad = new ServicioLoadForosXML(equipos);
@@ -27,6 +31,7 @@ class ServicioLoadEquipos {
 	
 	
 	public List<ComentarioForo> loadXML(String xmlFile){
+	
 		List<ComentarioForo> comentarios = forosXMLLoad.procesaXML(xmlFile);
 		//Collections.reverse(comentarios);
 		List apoyo=new ArrayList();

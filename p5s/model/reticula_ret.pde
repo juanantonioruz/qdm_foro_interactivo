@@ -16,20 +16,20 @@ class ReticulaRet implements TreeDisplayable{
 
 	 ServicioLoadEquipos servicioLoadEquipos;
 	
-	public ReticulaRet(String xml, float x1, float y1, float ancho, float alto){
+	public ReticulaRet(String xmlEquipos, String xmlComentarios, float x1, float y1, float ancho, float alto){
 		this.x1 = x1;
 		this.y1 = y1;
 		this.ancho = ancho;
 		this.alto = alto;
-		servicioLoadEquipos = new ServicioLoadEquipos();
-		comentariosExistentesDB = servicioLoadEquipos.loadXML(xml);
+		servicioLoadEquipos = new ServicioLoadEquipos(xmlEquipos);
+		comentariosExistentesDB = servicioLoadEquipos.loadXML(xmlComentarios);
 		resetReticulaConComentariosDB(false);
+
 
 	}
 	
 	private void resetReticulaConComentariosDB(boolean menos) {
 		loadComentariosXML();
-
 		cc = new CalculoProfundidadColumna(mensajes);
 		log.info("profundidad: " + cc.columnas);
 
@@ -205,7 +205,6 @@ float anchoColumna = getWidth() / cc.columnas;
 	
 	private void loadComentariosXML(String xml) {
 			 ServicioMensajes servicioMensajes= new ServicioMensajes();
-
 		servicioMensajes.loadMensajes(comentariosExistentesDB);
 		usuarios = servicioMensajes.usuarios;
 		mensajes = servicioMensajes.organizaMensajes;
