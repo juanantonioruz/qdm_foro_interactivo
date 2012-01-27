@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comentarios type="array">
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:45:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">636</id>
+    <textoes>Compa&#241;er@s,
+
+Fue un gusto de intercambiar con ustedes tod@s, el foro del nuevo sitio fue bastante caotico, espero que a pesar de esto hayan podido seguir las diferentes conversaciones.
+
+Lo iremos perfeccionando y tornando mas facil y eficaz. El foro seguira abierto puden volver y seguir escribiendo pues el foro es una herramienta de trabajo, todas las ideas y apportes para mejorarla son bievenidas!
+
+Marta y Marjorie estaran enviando nuevos materiales sobre la invetigaci&#243;n de vocabulario y teniendo en cuenta las nuevas ccuestiones aqui levantadas
+
+un abrazo para tod@s y gracias por su participacion
+</textoes>
+    <tituloes>Mensaje de cierre</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:35:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">599</id>
+    <textoes>Gracias a todo el mundo.
+Espero un apoyo en la busqueda de fianciamientos para poder continuar este trabajo con las mujeres</textoes>
+    <tituloes>Agradeciemientos</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:25:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">590</id>
+    <textoes>oumy et fatou sy 
+Gracias, es siempre un placer de trabajar con ustedes </textoes>
+    <tituloes>Agradecimientos</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:19:21Z</created-at>
+    <comentario-id type="integer">548</comentario-id>
+    <id type="integer">550</id>
+    <textoes>Si Carlos! los esperamos manhana... vamos a ver si conseguimos conversar con mayor fluidez las preguntas quedan abiertas se las puede responder en cualquier momento.
+</textoes>
+    <tituloes>los esperamos manhana!</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:18:21Z</created-at>
+    <comentario-id type="integer">546</comentario-id>
+    <id type="integer">635</id>
+    <textoes>e esse m&#233;todo que estamos construindo de forma coletiva envolve dois processos muito revolucion&#225;rios o primeiro &#233; aprender pensando, porque normalmente estamos apenas reproduzindo uma l&#243;gico imposta pelo poder dominante, que utilizam o espa&#231;o da educa&#231;&#227;o para manter o status quo e o segundo &#233; refletir sobre a igualdade de g&#234;nero.  realmente temos um grande desafio pela frente, mas voc&#234;s est&#227;o bem empenhados.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:15:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">532</id>
+    <textoes>Buenos D&#237;as Ada
+Reciba un c&#225;lido abrazo desde Bogot&#225;, en especial del Cerro Sur de Suba y de Viky en Enda
+Hemos constestado todas las preguntas desde lo que estamos trabajando con el grupo de abuelos y abuelas
+Si en en grupo existen documentos que nos orienten sobre el trabajo con esta poblaci&#243;n estaremos muy agradecidas hac&#233;rnoslo llegar lo m&#225;s pronto posible</textoes>
+    <tituloes>Saludos desde bogota</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:14:21Z</created-at>
+    <comentario-id type="integer">534</comentario-id>
+    <id type="integer">535</id>
+    <textoes>Graciela, muchas gracias por tu participaci&#243;n y tus aportes. &#193;nimo con el trabajo y espero que me escribas pronto con algunos resultados del trabajo de g&#233;nero para que sigamos conversando a dos, &#191;te parece? Un abrazo  grande a esas abuelas y abuelos de nuestra parte (ojal&#225; puedan ver con ellos el video de las Awichas)</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:12:21Z</created-at>
+    <comentario-id type="integer">546</comentario-id>
+    <id type="integer">534</id>
+    <textoes>Gracias Martha
+Nos despedimos con un hasta pronto, pront&#237;simo reencuentro
+Mujeres de loma Verde</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:10:21Z</created-at>
+    <comentario-id type="integer">630</comentario-id>
+    <id type="integer">632</id>
+    <textoes>Tendr&#237;amos que seguir discuti&#233;ndolo, pero de momento, te hago algunas sugerencias en base a lo que ya hab&#233;is aprendido y puesto en pr&#225;ctica desde Ouarzazate. Creo que empezar con una din&#225;mica de identificaci&#243;n de estereotipos sexistas es fundamental. Quiz&#225;s los proverbios no muevan a los j&#243;venes, pero pod&#233;is encontrar otros "materiales culturales" sexistas que circulen mucho entre ellos. Ten&#233;is que identificarlos con ellos: podr&#237;an ser videojuegos (esto ser&#237;a fant&#225;stico, seguro que les sorprend&#233;is), pel&#237;culas, canciones... Pod&#233;is hacer una especie de "ficha cultural mujeres/hombres" adaptada a su caso. Lo que m&#225;s nos interesar&#237;a es que logr&#233;is descubrir el mayor n&#250;mero de relaciones sociales donde se reproduce el sexismo en las primeras din&#225;micas y luego discut&#225;is una por una con los j&#243;venes, con una din&#225;mica parecida a las fichas de cultura. Os animo a que lo empec&#233;is a pensar as&#237;. Es decir, el m&#233;todo que os estamos proponiendo, como es constructivista, es muy adaptable. &#191;Qu&#233; te parecen estas ideas?
+
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:10:21Z</created-at>
+    <comentario-id type="integer">612</comentario-id>
+    <id type="integer">610</id>
+    <textoes>Comprendo que el equipo de coordinacion debe continuar a estabilizar el m&#233;todo, el porceso y poner en comun las herramientas.. si se dan cuante y tenemos muchos intercambios entre nostros sobre las formciones (la facilitadoras primero) luego las mujeres de los barrios... ustedes han logrado hacer el lazo y nos lo han mostrado com tenemos que continuar con las mujeres del barrio...
+paolo Freire decia tambien " la unica cosa que no hay que hacer es seguirme". Estoy feliz de ver que ustede no han reproduicido las teorias si no que parten de las realidades de los equipos y esto no es poara guiarlas si no para tornar coherentes los procesos</textoes>
+    <tituloes>apoyo del equipo de coordinacion?</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:10:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">546</id>
+    <textoes>Queridas amigas y amigos: 
+
+Vamos a cerrar el foro de discusi&#243;n de hoy. Creo que hemos tenido algunos problemas t&#233;cnicos, no logramos transmitirle al t&#233;cnico en inform&#225;tica el dise&#241;o que necesit&#225;bamos para que el foro saliese como quer&#237;amos... Vamos a trabajar para que el pr&#243;ximo tenga un dise&#241;o m&#225;s adecuado, es un compromiso. Ma&#241;ana tenemos el foro con los pa&#237;ses franc&#243;fonos, ya compartiremos los resultados.
+
+Queremos anticiparos tambi&#233;n que os vamos a enviar materiales metodol&#243;gicos nuevos para acompa&#241;aros en el proceso de aplicaci&#243;n de la educaci&#243;n popular con enfoque de g&#233;nero. Lo estamos construyendo con vosotros y es experimental. Nos han servido mucho las experiencias de Senegal y Mali para elaborarlo. Os estaremos enviando una gu&#237;a con ideas para la fase de INVESTIGACI&#211;N VOCABULAR, que quiz&#225;s no ha sido bien detallada y es muy importante. Creo que lo tendr&#233;is la semana que viene. Os lo enviaremos y quedaremos a vuestra escucha. Esperamos que en el pr&#243;ximo trimestre pod&#225;is avanzar en esta importante fase y que en el tercer encuentro virtual lo comentemos. Un abrazo y muchas gracias por vuestra participaci&#243;n. Marta
+
+</textoes>
+    <tituloes>CIERRE DEL FORO</tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T18:02:21Z</created-at>
+    <comentario-id type="integer">588</comentario-id>
+    <id type="integer">595</id>
+    <textoes>Creo que os v&#225;is a sentir reflejadxs en el material que os vamos a enviar, porque lo hemos construido teniendo muy en cuenta vuestra experiencia. A m&#237; me abri&#243; mucho los ojos el informe que envi&#225;steis de la din&#225;mica de proverbios. Aprendo mucho con vosotrxs</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:59:21Z</created-at>
+    <comentario-id type="integer">488</comentario-id>
+    <id type="integer">630</id>
+    <textoes>Oumy, por ejemplo: el grupo de jovenes de Senegal quieren organizar talleres sobre el g&#233;nero pero no necesitan ser alfabeizados por que son instruidos.
+Mi pregunta es como organizar modulos de formacion unicamente sobre la perpsctiva de g&#233;nero?</textoes>
+    <tituloes>apoyo</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:58:21Z</created-at>
+    <comentario-id type="integer">611</comentario-id>
+    <id type="integer">624</id>
+    <textoes>Actividades generadoras de ingresos, esto puede ser el alquiler de sillas, la venta de frutas locales.. con el dinero ganado, el grupo de mujeres apoya la actividad de alfa con perspectiva de g&#233;neron, es la prpuesta de fatimata Sy</textoes>
+    <tituloes>AGI que es?</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:54:21Z</created-at>
+    <comentario-id type="integer">588</comentario-id>
+    <id type="integer">584</id>
+    <textoes>Quiero anticiparte lo que os vamos a plantear en un escrito que v&#225;is a recibir pr&#243;ximamente del equipo de coordinaci&#243;n: para articular g&#233;nero con educaci&#243;n popular, os proponemos que relacion&#233;is "temas generadores" con "relaciones sociales donde se re-produce el sexismo" y que orden&#233;is la investigaci&#243;n  vocabular de esta manera, por "temas generadores - relaciones sociales". En tu respuesta, encontramos ya varias relaciones sociales - temas generadores: el matrimonio, la econom&#237;a... Creo que ten&#233;is un excelente avance y que os ser&#225; &#250;til el documento que os vamos a enviar, que os ayudar&#225; a ordenar un poco mejor los resultados de la investigaci&#243;n vocabular. Enhorabuena!!!</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:51:21Z</created-at>
+    <comentario-id type="integer">610</comentario-id>
+    <id type="integer">616</id>
+    <textoes>Gracias Alasane. Estamos muy atentas a vuestro trabajo, que es nuestra principal fuente de inspiraci&#243;n. Estamos tambi&#233;n muy atentas a las diferencias regionales, pensamos que entre Mali y Senegal puede haber mucho que hacer en com&#250;n porque compart&#237;s algunos rasgos culturales y proximidad geogr&#225;fica. Creo que el trabajo con proverbios ha sido muy rico en los dos pa&#237;ses (quiz&#225;s en Am&#233;rica Latina esa din&#225;mica no funcione igual, vamos a ver, no haremos recetas). Espero que seais muy cr&#237;ticos con el material que os vamos a enviar sobre la "investigaci&#243;n vocabular", que valid&#233;is lo que os parezca interesante y nos dig&#225;is qu&#233; no os parece bien, etc. Intentaremos seguir esta l&#237;nea de trabajo que hemos iniciado, con intercambios, haci&#233;ndonos cargo de la sistematizaci&#243;n, etc. Es un gusto.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:50:21Z</created-at>
+    <comentario-id type="integer">588</comentario-id>
+    <id type="integer">611</id>
+    <textoes>&#191;Qu&#233; es AGR?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:49:21Z</created-at>
+    <comentario-id type="integer">488</comentario-id>
+    <id type="integer">588</id>
+    <textoes>fatou sy del senegal
+
+Necesitamos recursos y material para llevar a delante nuestras actividades futuras
+pero tambien necesitamos AGR par mantener las clases abiertas
+
+Tambien nos justaria tener formacion sobre la tranformacion de cereales locales, transformacion de frutas y verduras et variedades de jabon
+ 
+
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:49:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">612</id>
+    <textoes>De nuestra parte (Marjorie y yo) lo que os podemos ofrecer es apoyo t&#233;cnico, pero es importante que nos dig&#225;is si necesit&#225;is algo espec&#237;fico, si ten&#233;is alguna duda, qu&#233; necesit&#225;is... quedamos a vuestra escucha</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:48:21Z</created-at>
+    <comentario-id type="integer">488</comentario-id>
+    <id type="integer">579</id>
+    <textoes>Los apoyos prinicpales son:
+la puesta en commun de la sistematizacion de las diferentes equipos
+los intercambios de experiencia entre quienes practicamos, las facilitadoras con la "tiza en la mano" lo que es mas concreto que las teorias.
+las iniciativas de "visitas cruzadas" entre los espacios de dakar, rufisque, bamako, Casa??
+
+Estando convencido que la educacion tiene sus costes, tendremos que entrar en la busqueda colectiva de fondos para apoyar nuestras actividades en el plano t&#233;cnico (local, equipo) pedagogico y didactico
+</textoes>
+    <tituloes>apoyos??</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:45:21Z</created-at>
+    <comentario-id type="integer">488</comentario-id>
+    <id type="integer">521</id>
+    <textoes>Solicitamos apoyos en el &#225;rea de pedagog&#237;a para adultos mayores
+titulos de pel&#237;culas
+</textoes>
+    <tituloes>pregunta 5</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:45:21Z</created-at>
+    <comentario-id type="integer">521</comentario-id>
+    <id type="integer">549</id>
+    <textoes>vamos a buscar material para enviarte y a ver si conseguimos apoyarte con material para trabajar con las abuelas.</textoes>
+    <tituloes>Gracias Graciela</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:42:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">488</id>
+    <textoes>...</textoes>
+    <tituloes>&#191;Qu&#233; tipo de apoyo os gustar&#237;a tener de parte del Equipo de Coordinaci&#243;n del proyecto, para facilitaros la tarea de aplicar la metodolog&#237;a de educaci&#243;n popular con perspectiva de g&#233;nero?</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:04:00Z</created-at>
+    <comentario-id type="integer">593</comentario-id>
+    <id type="integer">621</id>
+    <textoes>Igualmente, vuestros avances son extraordinarios</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:03:00Z</created-at>
+    <comentario-id type="integer">593</comentario-id>
+    <id type="integer">620</id>
+    <textoes>Un trabajo prometedor, espero que sig&#225;is adelante pese a las dificultades y que las coment&#233;is con nosotrxs. Escribidnos por mail y contadnos, os responderemos</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:02:00Z</created-at>
+    <comentario-id type="integer">593</comentario-id>
+    <id type="integer">615</id>
+    <textoes>Si present&#225;is proyectos con QdM o por vuestra cuenta, os sugiero que presupuest&#233;is un intercambio con Senegal, creo que vuestro trabajo tiene mucho en com&#250;n y que podr&#237;ais aprender mucho</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:01:00Z</created-at>
+    <comentario-id type="integer">593</comentario-id>
+    <id type="integer">597</id>
+    <textoes>Fatimata Sy tiene razon, las actividade generadoras de ingresos tienen que apoyar el funcionamiento de un espacio de educacion popular a largo tiempo (si por ejemplo no encotramos financiamiento) como hacemos? tenemos que contar sobre nosotros mismos, nuestras proias fuerzas... la perspectiva es interesante</textoes>
+    <tituloes>Alfa con PG Y ESS</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T17:00:00Z</created-at>
+    <comentario-id type="integer">489</comentario-id>
+    <id type="integer">593</id>
+    <textoes>Formacion de alfabetizadoras
+comenzar las clases de alfa
+relizar las fichas de cultura sobre los temas generadores identificados
+elaborar proyectos para la busqueda de financiamiento y asi poder responder a nuestras ambiociones.
+Intercambiar con actores de Senegal sobre el procesos (visitas)
+</textoes>
+    <tituloes>perspectivas</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:59:00Z</created-at>
+    <comentario-id type="integer">578</comentario-id>
+    <id type="integer">605</id>
+    <textoes>Magn&#237;fico, por favor no os olvid&#233;is de hacer fotos e informes de todos los avances que vay&#225;is realizando, porque eso nos permite aprender. Vuestros informes de la din&#225;mica de los proverbios fueron muy &#250;tiles, seguid as&#237;, de esa forma nosotras tambi&#233;n podemos ir sistematizando. Muchas gracias por el entusiasmo.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:58:00Z</created-at>
+    <comentario-id type="integer">489</comentario-id>
+    <id type="integer">578</id>
+    <textoes>oumy del Senegal
+3 clases de alfa con pg seran abiertas, una ya es funcional con Fatou quien ha realizado por el momento las lineas del tiempo individual y collectiva, segida de Adiouma y yo sobre la perspectiva de Genero en el barrion de ndiago, y una formacion de mujeres de Martin lutin king &#224; Gu&#233;diawaye </textoes>
+    <tituloes>actividades futuras</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:57:00Z</created-at>
+    <comentario-id type="integer">563</comentario-id>
+    <id type="integer">604</id>
+    <textoes>Llev&#225;is un ritmo de trabajo impresionante!!! No os olvid&#233;is de plantearnos cualquier duda que teng&#225;is e intentaremos apoyaros. Cuidad mucho la etapa de formaci&#243;n de las facilitadoras, es fundamental. Esperamos que nos sig&#225;is enviando los materiales que produzc&#225;is</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:56:00Z</created-at>
+    <comentario-id type="integer">489</comentario-id>
+    <id type="integer">563</id>
+    <textoes>Para Graines, tendremos que:
+Abrir la clase propuesta en la Casa de la Mujer en Pikine
+l'aperura de la Clase con Aby Ba
+la organizacon de un taller de puesta en comun de experiencias sobre la educaion popular y la perspectiva de g&#233;nero
+la organizacion de foros con un tema sobre la educacion popular</textoes>
+    <tituloes>actividades proximo trimestre</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:55:00Z</created-at>
+    <comentario-id type="integer">519</comentario-id>
+    <id type="integer">524</id>
+    <textoes>Graciela, estamos en este momento preparando un material m&#225;s detallado sobre la alfabetizaci&#243;n con enfoque de g&#233;nero, fase a fase. Justamente, estamos ahora trabajando sobre la fase de investigaci&#243;n vocabular, que os enviaremos en unos pocos d&#237;as. Quiz&#225;s os pueda dar ideas. Para vincular la educaci&#243;n popular con el enfoque de g&#233;nero en la forma en que lo entendimos en Ouarzazate, estamos proponiendo que se relacionen los "temas generadores" con las "relaciones sociales donde se re-produce el sexismo". Organizando as&#237; el material, la reflexi&#243;n de g&#233;nero ser&#225; mucho m&#225;s f&#225;cil. Lo ver&#225;s m&#225;s detalladamente en el material escrito que estamos preparando. Te pongo un simple ejemplo: podemos considerar el trabajo como tema generador (si el grupo as&#237; lo define, aunque suele ser un tema de preocupaci&#243;n muy generalizado). El trabajo es a la vez una relaci&#243;n social donde se reproduce el sexismo. &#191;A trav&#233;s de qu&#233; mecanismos? Por ejemplo, si s&#243;lo tiene seguridad social quien tiene un trabajo formal y el trabajo dom&#233;stico que realizan las mujeres no se considera trabajo, entonces s&#243;lo quien tuvo un trabajo formal accede a una pensi&#243;n. Y si los hombres tienen m&#225;s acceso que las mujeres al trabajo formal con seguridad social, las mujeres mayores quedan desprotegidas y sin pensi&#243;n propia. Esto puede producir una discriminaci&#243;n de g&#233;nero. Entonces, que el trabajo de las mujeres no se considere trabajo es un mecanismo sexista. Es un ejemplo que se me ha ocurrido al saber que trabaj&#225;is con personas mayores (no s&#233; si en ese colectivo los hombres han tenido trabajo formal de j&#243;venes, no conozco la comunidad, pero en cualquier caso las cifras de afiliaci&#243;n a la SS de Am&#233;rica Latina nos dicen que hay muchos m&#225;s hombres que mujeres afiliados). Al sugeriros que orden&#233;is la investigaci&#243;n vocabular utilizando como temas generadores las "relaciones sociales donde se re-produce el sexismo", os animamos a que al discutir cada tema generador intent&#233;is abordar los mecanismos sexistas y cuestionarlos. Como la poligamia en Mali, por ejemplo, un mecanismo sexista dentro del matrimonio, como dec&#237;a Jeanne D&#180;Arc. Habr&#237;a muchos ejemplos, &#191;qu&#233; te parece esta idea?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:54:00Z</created-at>
+    <comentario-id type="integer">489</comentario-id>
+    <id type="integer">519</id>
+    <textoes>Entre Octubre a Diciembre continuaremos la fase preliminar con el grupo de Abuel@s 
+En base a los resultados de esta primera fase elaboraremos la propuesta para la ficha cultural y plan de trabajo con el grupo (30 personas)
+Inscripci&#243;n del grupo en el pr&#243;ximo periodo acad&#233;mico que inicia en febrero de 2012, presentaci&#243;n de la propuesta a Secretaria de educaci&#243;n
+Iniciar la gesti&#243;n con el grupo de mujeres  del Cerro y secretaria de educaci&#243;n</textoes>
+    <tituloes>pregunta 4</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:53:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">489</id>
+    <textoes>...</textoes>
+    <tituloes>&#191;Qu&#233; actividades os propon&#233;is realizar durante el pr&#243;ximo trimestre para aplicar la metodolog&#237;a de educaci&#243;n popular con perspectiva de g&#233;nero? &#191;Con cuantas participantes?</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:52:00Z</created-at>
+    <comentario-id type="integer">609</comentario-id>
+    <id type="integer">628</id>
+    <textoes>Tus observaciones son muy valiosas. Me alegro que el trabajo con proverbios haya funcionado. Os sugiero que sig&#225;is utiliz&#225;ndolos como recurso cuando trat&#233;is a m&#225;s profundidad cada relaci&#243;n social. Me gustar&#237;a mucho que prob&#233;is a transformar alg&#250;n proverbio en el c&#237;rculo de alfabetizaci&#243;n, quiz&#225;s pueda servir despu&#233;s de lema de trabajo y visibilizaci&#243;n frente a la comunidad o de nombre del grupo... esta segunda idea me gusta mucho. Cuando abrimos alguna "herida" (la discriminaci&#243;n de g&#233;nero es una herida, puede ser una toma de conciencia que produzca mucha tristeza y sentimientos de impotencia), es necesario abrir alg&#250;n camino para sanarla. La palabra es muy poderosa en este sentido, creo que tener un "lema" un "nombre", una frase no sexista que una al grupo, que reivindique su derecho a transformar la cultura... que sea un ejemplo vivo de eso... ser&#237;a importante. Si lo hac&#233;is mantenedme informada, escribidme por mail (por cierto, recibo mails de Alasane  y me gustar&#237;a que tambi&#233;n t&#250; y Fatimata me escrib&#225;is cont&#225;ndome cosas, yo siempre respondo)</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:51:00Z</created-at>
+    <comentario-id type="integer">609</comentario-id>
+    <id type="integer">607</id>
+    <textoes>Isso &#233; &#243;timo, mas vale pontuar que nem sempre &#233;  assim.  Nem sempre as alfabetizadoras s&#227;o da comunidade do grupo de mulheres alfabetizadas.  Voc&#234;s identificaram um conjunto de palavras geradoras. Palavras essas que est&#227;o relacionadas aos temas geradores que surgiram na linha do tempo individual e coletiva, na ficha de cultura dos prov&#233;rbios.  Agora depois de identificarmos as palavras geradoras precisamos construir fichas de cultura com algumas imagens que possibilitem as mulheres que v&#227;o ser alfabetizadas identificarem a palavra com alguma imagem que fa&#231;a sentido com a realidade delas. E come&#231;amos o trabalho fon&#233;tico das palavras.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:50:00Z</created-at>
+    <comentario-id type="integer">490</comentario-id>
+    <id type="integer">609</id>
+    <textoes>oumy
+Si las mujeres han hablado, se han bien expresado sobre sus   desconteto frente a los proverbios sexistas sin fundamento 
+Pero tambien son concientes que la negociacion para cambiar las situaciones en la vida real no sera facil, porque tenemos nuestras propias realidades culturales y estan convencidas de que la formaci&#243;n de las mujeres y la independencia financiera puede ser crucial en la lucha</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:49:00Z</created-at>
+    <comentario-id type="integer">602</comentario-id>
+    <id type="integer">614</id>
+    <textoes>eu tamb&#233;m queria parabenizar pelo trabalho que est&#227;o realizando e pela sistematiza&#231;&#227;o das informa&#231;&#245;es. Queria pedir que me enviassem informa&#231;&#245;es sobre como funciona a separa&#231;&#227;o sil&#225;bica para poder contribuir mais no momento que estaremos trabalhando as fam&#237;lias das palavras geradoras.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:48:00Z</created-at>
+    <comentario-id type="integer">602</comentario-id>
+    <id type="integer">617</id>
+    <textoes>&#191;Qu&#233; injusticias de g&#233;nero salieron en la discusi&#243;n? &#191;qu&#233; clima hab&#237;a en la clase cuando se discut&#237;a esto? &#191;c&#243;mo os sent&#237;steis vosotras hablando de esto?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:47:00Z</created-at>
+    <comentario-id type="integer">490</comentario-id>
+    <id type="integer">602</id>
+    <textoes>fatou sy et oumy ba
+las injusticias de genero resaltadas por la ficha cultural Hombre/Mujer han estimulado las mujeres a participar</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:46:00Z</created-at>
+    <comentario-id type="integer">586</comentario-id>
+    <id type="integer">603</id>
+    <textoes>Jeanne, es un trabajo extraordinario!!! &#191;es resultado del trabajo con las facilitadoras o con las mujeres participantes en la alfa? Me gusta mucho la forma en que est&#225;s organizando los resultados: por relaciones sociales donde se re-produce el sexismo, que ser&#237;an nuestros temas generadores. Ya ten&#233;is identificadas la sexualidad, el matrimonio... os sugiero que vay&#225;is haciendo una ficha de cultura por cada una de estas relaciones sociales, que os permita discutirlas con m&#225;s profundidad. &#191;hab&#233;is realizado tambi&#233;n l&#237;neas de tiempo?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:45:00Z</created-at>
+    <comentario-id type="integer">490</comentario-id>
+    <id type="integer">586</id>
+    <textoes>Sexualidad:
+"la mujer debe retenerse no debe provocar al hombre, de lo contrario &#233;l pensara que ella es ligera"
+Es mi marido no ciertto, entonces tambien tengo derecho a decir que lo deseo"
+Pero es vergonzoso y tenemos miedo que le diga a la co-esposa y que esta se burle de ti"
+Matrimonio: 
+"me gustaria que se adotase la polandria para ver las reacciones de los hombres... se moriran de celos"
+"Todos nuestros hijos deben casarse por la ley, par estar protegidos contra las explusiones segun el homr de sus maridos" </textoes>
+    <tituloes>discusion de g&#233;nero</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:44:00Z</created-at>
+    <comentario-id type="integer">490</comentario-id>
+    <id type="integer">569</id>
+    <textoes>Los debates se han centrado en la diferencia entre el hombre y la mujer.
+El g&#233;nero como factor de equidad y equilibrio en la vida profesional, social y relacional.
+Seynabou Ndiaye / Rufisque</textoes>
+    <tituloes>Debate de Genero</tituloes>
+    <usuarioforo>
+      <nombre></nombre>
+      <id type="integer">198</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>makhfouzgueye@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:43:00Z</created-at>
+    <comentario-id type="integer">518</comentario-id>
+    <id type="integer">530</id>
+    <textoes>Estoy muy muy de acuerdo con lo que dices, con la necesidad de trabajar con este sector de la poblaci&#243;n. Tendr&#237;amos que pensar con m&#225;s tiempo c&#243;mo apoyaros... Personalmente encuentro hermos&#237;simo el trabajo sobre la memoria, no s&#243;lo para rescatarla como una reliquia que se ponga en una biblioteca, sino para comunicarla... En el &#193;frica subsahariana est&#225; funcionando muy bien el trabajo con proverbios. Yo os propondr&#237;a que hag&#225;is alg&#250;n trabajo de tipo cultural vinculada a la alfabetizaci&#243;n. &#191;Qu&#233; tal trabajar con cuentos? </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:42:00Z</created-at>
+    <comentario-id type="integer">518</comentario-id>
+    <id type="integer">520</id>
+    <textoes>Hola Graciela. Creo que habr&#237;a que conocer mejor el contexto para responderte adecuadamente, aun as&#237; me animo a hacerte algunos comentarios, ya me dir&#225;s qu&#233; te parecen. Si entiendo bien, hab&#233;is intentado reformular una oraci&#243;n en el sentido de destacar la dignidad de las mujeres y ah&#237; un participante os ha hecho notar que s&#243;lo el Papa tiene la potestad de cambiar una oraci&#243;n, &#191;es as&#237;? Pues bien, este es el problema que tenemos muchas veces, que se nos intenta negar la capacidad de transformar la cultura y las relaciones sociales en que estamos inmersas e inmersos. Los sectores dominantes de las iglesias han sido con mucha frecuencia promotores del sexismo y de otras formas de discriminaci&#243;n, Hay un trabajo fundamental que hacer dentro de las relaciones religiosas, dentro de las relaciones con la divinidad y con las comunidades religiosas, por la justicia de g&#233;nero. Hay mucha gente en el mundo que trabaja en este sentido, tanto en el marco de la religi&#243;n cat&#243;lica como de la musulmana. Os animo a investigar en ese sentido. Quiz&#225;s pod&#225;is inventar vuestra propia oraci&#243;n, por qu&#233; no. </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:41:00Z</created-at>
+    <comentario-id type="integer">490</comentario-id>
+    <id type="integer">518</id>
+    <textoes>se hizo una reflexion en cuanto al texto de una oracion que siempre hacemos al inicio de la sesi&#243;n 
+Dios te salve Mar&#237;a,llena eres de gracia el se&#241;oe es contigo. BENDITA ERES ENTRE TODAS LAS MUJERES y bendito el fruto de tu vientre Jes&#250;s
+propusimos decir BENDITA ERES ESTRE TODA LA HUMANIDAD
+Guillermo C&#225;rdenas:No se puede cambiar poque s&#243;lo las mujeres se embarazan
+Blanca Bayona :" Y esto quien se le ocurre cambiar si nolo lo puede hacer en santo Papa"
+Mar&#237;a Ercilia ramirez: "No nos digamos cuentos, por eso es que ls jovenes de ahora no quieren tener hijos"&#183;
+Mar&#237;a Figueroa: " Yo pieso que se puede cambiar, pero con la gente que viene naciendo"
+Jos&#233; Yopas&#225;: "De pronto, con las cosa que estamos viendo, ahora dizque los hombres tambien sienten antojos, y les van a dar incapacidad" ... risas</textoes>
+    <tituloes>pregunta 3</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:40:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">490</id>
+    <textoes>...</textoes>
+    <tituloes>Destaca las discusiones de g&#233;nero que la aplicaci&#243;n de las herramientas generaron con las mujeres. Cita algunas de las expresiones de las mujeres en los talleres</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:39:00Z</created-at>
+    <comentario-id type="integer">608</comentario-id>
+    <id type="integer">629</id>
+    <textoes>Me gustar&#237;a que nos cuentes m&#225;s cosas, escr&#237;beme siempre que quieras, no hace falta que sean informes formales, tambi&#233;n emails sencillos en tus palabras, donde me cuentes qu&#233; tal va todo, tus dudas. Prometo responder. Hemos tenido unos intercambios muy fruct&#237;feros con Senegal y esperamos tenerlos contigo a partir de ahora, &#191;qu&#233; te parece?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:38:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">608</id>
+    <textoes>-comprension de estereotipos
+elaboracion de fichas de cultura
+incio de un debate contradictorio entre mujeres</textoes>
+    <tituloes>objetivos atingidos</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:37:00Z</created-at>
+    <comentario-id type="integer">576</comentario-id>
+    <id type="integer">625</id>
+    <textoes>Pienso que el tema del matrimonio y los m&#250;ltiples mecanismos sexistas que se dan en esa relaci&#243;n social, es un tema que hab&#233;is identificado con total claridad. Os animo a que trabaj&#233;is a profundidad el tema con las mujeres, que recopil&#233;is los proverbios sexistas sobre este tema para despu&#233;s motivar una discusi&#243;n s&#243;lo sobre el matrimonio, que hag&#225;is fichas de cultura (al menos una) y que identifiqu&#233;is muy bien algunas palabras generadoras para la alfa.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:36:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">576</id>
+    <textoes>La mujeres se han activado y han participado aun cuando el inicio era dificil. estuve obligada de utilizar la herramienta sobre los estereotipos de Pilara para generar reflexion.
+Muchos proverbios recogidos no eran sexistas. En plenaria, la sintesis nos ayudo a entender el ejercisio. De las discusiones pudimos ver algunas palavras generadoras y temasgeneradores como el matrimonio, la maternidad, la sexualidad.
+Algunas dificultades como el complejo de inferioridad en relacion a los hombres, poco importa la edad, las mujeres no cren que le cambio sea posible.
+pero tambien hay puntos positivos como los debates contradictorios y la comprension mutua que aparece entre las mujeres. Ellas pudieron hacer el lazo entre el taller y los otros temas trabajados, como la perpsctiva de g&#233;nero, los derechos de las mujeres, etc.
+</textoes>
+    <tituloes>evaluacion</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:35:00Z</created-at>
+    <comentario-id type="integer">606</comentario-id>
+    <id type="integer">634</id>
+    <textoes>Alasane, confirmas mis sospechas, os enviaremos el material sobre la investigaci&#243;n vocabular en cuesti&#243;n de unos d&#237;as. Esperamos vuestro feed-back.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:34:00Z</created-at>
+    <comentario-id type="integer">591</comentario-id>
+    <id type="integer">606</id>
+    <textoes>Si marta, la fase de la investigacion de vocabilario no fue especificamente contada. Quizas tendriamos que comprometer a las facilitadoras a poner un poco de tiempo para esta fase. Mi hypotesis es que en una civilizacion de oralidad o de palabra, el vocabulario es "cordero", es la normalidad. 
+Mucho mas segun mis obseevaciones, los hombres y mujeres en los espacios y tambien las facilitadoras esta al inicio atraidas por lo escrito
+</textoes>
+    <tituloes>investigacion vocabularia</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:33:00Z</created-at>
+    <comentario-id type="integer">568</comentario-id>
+    <id type="integer">591</id>
+    <textoes>Hola Alasane: esto va a ser la revoluci&#243;n!!! ja, ja. Alasane, desde el equipo de coordinaci&#243;n pensamos que no qued&#243; muy clara la etapa de investigaci&#243;n vocabular, &#191;c&#243;mo lo ves t&#250;? Observamos que los equipos no la mencionan en sus reportes. De hecho, estamos preparando un material escrito muy pr&#225;ctico para aclarar c&#243;mo llevar a cabo esta parte tan improtante del trabajo y hacerlo con un enfoque de g&#233;nero sistem&#225;tico. Pero cu&#233;ntanos, &#191;en este momento est&#225; claro c&#243;mo hacer esa fase?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:32:00Z</created-at>
+    <comentario-id type="integer">568</comentario-id>
+    <id type="integer">600</id>
+    <textoes>Como as fichas est&#227;o sendo confeccionadas? Com imagens de revistas, fotos, desenhos? Como ser&#225; a utiliza&#231;&#227;o destes recursos visuais? 
+Quais temas geradores foram identificados? Para todo tema gerador teremos uma palavra geradora para trabalharmos a sua estrutura fon&#233;tica. </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:31:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">568</id>
+    <textoes>las sesiones de formacion que pude realizar en los paises Africanos me permitieron de mostar a los participantes (hombres y mujeres):
+de que manera los alfabetizandos pueden participar en su propia educacion (pues de costumbre es un metodo impuesto con guias y livros ya listos)
+de que manera con las fichas de cultura se podemos crear nuestros propios livros, nuestra imagenes, en una palavra la didactica!</textoes>
+    <tituloes>objetivos atingidos</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:30:00Z</created-at>
+    <comentario-id type="integer">596</comentario-id>
+    <id type="integer">627</id>
+    <textoes>oumy
+El labor, la autonomia, la familia, la poligamia etc.</textoes>
+    <tituloes>Tematicas generadoras</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:29:00Z</created-at>
+    <comentario-id type="integer">567</comentario-id>
+    <id type="integer">596</id>
+    <textoes>Danos alg&#250;n ejemplo de "temas generadores" identificados con las mujeres participantes en la alfabetizaci&#243;n, nos interesa mucho saber m&#225;s</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:28:00Z</created-at>
+    <comentario-id type="integer">567</comentario-id>
+    <id type="integer">577</id>
+    <textoes>Oumi, quiero preguntarte tambi&#233;n qu&#233; tal funcion&#243; la din&#225;mica de los proverbios sexistas con las mujeres participantes en la alfabetizaci&#243;n, &#191;se animaron a hablar, les interes&#243;, o fue dif&#237;cil? Cu&#233;ntanos m&#225;s cosas</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:27:00Z</created-at>
+    <comentario-id type="integer">567</comentario-id>
+    <id type="integer">575</id>
+    <textoes>Ese momento de la l&#237;nea de tiempo individual y colectiva posibilita el establecimiento de una relaci&#243;n m&#225;s afectuosa, as&#237; lxs participantes se conocen, conocen la historia de la otra u otro, se relacionan. Es un momento muy importante
+</textoes>
+    <tituloes>Comentario de parte de Marjorie</tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:26:00Z</created-at>
+    <comentario-id type="integer">567</comentario-id>
+    <id type="integer">574</id>
+    <textoes>Esta informaci&#243;n me parece muy valiosa. Oumi, cu&#233;ntanos un poco m&#225;s qu&#233; problemas han tenido las facilitadoras con las mujeres participantes en la alfabetizaci&#243;n, queremos saber m&#225;s. Por otra parte, si entiendo bien se&#241;alas que para "romper el hielo" con las participantes ha sido m&#225;s &#250;til el m&#233;todo de la l&#237;nea de tiempo, &#191;es as&#237;? &#191;hab&#233;is realizado esa t&#233;cnica?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:25:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">567</id>
+    <textoes>oumy del Senegal
+No hemos encontrado obstaculo major en el proceso de facilitacion porque las alfabetizadoras son todas profesionales, y no tenemos que olvidar que las mujeres (alfabatizadoras) hacen parte de la comunidad y llevan dentro de ellas los problemas de las mujeres del barrio. La difficultad que han encontrado las alfabetizadoras es en hacer participar las mujeres/participantes &#224; los cursos. Lo que se puede explicar porque nosotras tambien tenemos nuestras realidades culturales, y para sobre llevar este obstaculo las facilitadoras han hablado de sus propias vidas y propias historia
+
+ </textoes>
+    <tituloes>proceso de facilitacion</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:24:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">565</id>
+    <textoes>Todos los estudiantes participaron activamente, sin embargo he encontrado algunas reticencias al principio porque algunos oyentes no quieren revelar su vida privada. Pero con el tiempo esta resistencia ha disminuido con la l&#237;nea de tiempo individual.
+el uso de estas herramientas ha permitido un PARTICIPACI&#211;N masiva en este m&#233;todo
+Ndiaye Seynabou</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre></nombre>
+      <id type="integer">198</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>makhfouzgueye@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:23:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">557</id>
+    <textoes>He utilizado la linea de tiempo individual y colectiva (trabajos de grupos)
+a partir de ese trabajo he resaltado las palabras generadoras  para introducir el trabajo de alfa
+Esas herramientas han  generado una participacion y un  participation et intercambio de todos los  estudiantes
+seynabou ndiaye Rufisque</textoes>
+    <tituloes>Herramientas</tituloes>
+    <usuarioforo>
+      <nombre></nombre>
+      <id type="integer">198</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>makhfouzgueye@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:22:00Z</created-at>
+    <comentario-id type="integer">619</comentario-id>
+    <id type="integer">631</id>
+    <textoes>Os sugiero que establezc&#225;is como tem&#225;ticas generadoras las RELACIONES SOCIALES DONDE SE RE-PRODUCE EL SEXISMO. Creo que es una clasificaci&#243;n que os ser&#225; muy &#250;til para abordar una discusi&#243;n de g&#233;nero amplia. Y en cada relaci&#243;n social, identificad los mecanismos sexistas. Por ejemplo, la poligamia es un mecanismo sexista dentro de las relaciones matrimoniales, familiares y tambi&#233;n sexuales. La autonom&#237;a es m&#225;s bien un camino para luchar contra el sexismo. Pienso que en un segundo momento, cuando hay&#225;is debatido varias relaciones sociales, pod&#233;is empezar a tomar como temas generadores formar de liberaci&#243;n de las mujeres. De momento, id tomando nota de esos caminos (educaci&#243;n, autonom&#237;a, etc) y retomadlos un poco m&#225;s adelante. Es lo que se me ocurre recomendaros. Excelente trabajo.</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:21:00Z</created-at>
+    <comentario-id type="integer">581</comentario-id>
+    <id type="integer">619</id>
+    <textoes>oumy et fatou sy
+los debates sobre: la situaciones difficiles de las mujeres por divorcio, matrimonio precoz y forzado, y la situaci&#243;n de las mujeres viudas sin ingresos
+
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:20:00Z</created-at>
+    <comentario-id type="integer">556</comentario-id>
+    <id type="integer">581</id>
+    <textoes>Cu&#233;ntanos m&#225;s sobre estos debates con las mujeres participantes en la alfabetizaci&#243;n, &#191;qu&#233; fue lo que los cataliz&#243;? &#191;hubo resistencias a discutirlos? &#191;qu&#233; reacciones emocionales se produjeron? </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:19:00Z</created-at>
+    <comentario-id type="integer">571</comentario-id>
+    <id type="integer">585</id>
+    <textoes>Essas fichas que se refere foram as que as facilitadoras fizeram durante a atividade de forma&#231;&#227;o.  Os temas que apareceram durante essa atividade ser&#227;o os mesmos das mulheres que voc&#234;s estar&#227;o alfabetizando?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:18:00Z</created-at>
+    <comentario-id type="integer">570</comentario-id>
+    <id type="integer">571</id>
+    <textoes>oumy del Senegal
+Los temas que han sido les sujets qui ont beaucoup plus generado lo mas de debates sont: la poligamia, el labor, la autonomia financiera de la mujer, la &#233;ducacion de los hijos y hijas en la pareja, la negociacion etc. </textoes>
+    <tituloes>dabate</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:17:00Z</created-at>
+    <comentario-id type="integer">556</comentario-id>
+    <id type="integer">570</id>
+    <textoes>Oumi, pregunta de parte de Marjorie: cu&#233;ntanos un poco cu&#225;les fueron los resultados de las l&#237;neas de tiempo, &#191;qu&#233; informaci&#243;n obtuv&#237;steis? &#191;qu&#233; tal os fue? &#191;qu&#233; palabras y temas generadores aparecieron? </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:16:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">556</id>
+    <textoes>oumy del Senegal
+las herramientas: linea del tiempo individual y colectiva, las fichas cultural y sobre todo la ficha cultural Mujer/Hombre con la red de rufisque y las facilitadoras de pikine con ellas tambien hisimos los proverbio sexistas</textoes>
+    <tituloes>Herramientas</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:15:00Z</created-at>
+    <comentario-id type="integer">541</comentario-id>
+    <id type="integer">536</id>
+    <textoes>Pues ya como metodolog&#237;a, la educaci&#243;n popular nos permite profundizar la tem&#225;tica de g&#233;nero en todos los procesos de formaci&#243;n que desarolla el Centro Gregoria APaza.
+En sintesis se ha institucionalizado el trabajo con esta metodolog&#237;a en dos espacios importantes: La formaci&#243;n para el desarrollo personal y social, como parte de los procesos de formaci&#243;n T&#233;cnica Integral, de la escuela T&#233;cnica, en la que las tem&#225;ticas de g&#233;nero, sexualidad, econom&#237;a del cuidado y la de  comercio justo y econom&#237;a solidaria se han desarrollado con fuerte &#233;nfasis en la sencibilizaci&#243;n en el eje transversal del sexismo, su reconocimiento, la toma de posici&#243;n pol&#237;tica y la articulaci&#243;n de redes y movimientos en su contra.
+
+Por otro lado, tambien se ha instalado (la metodolog&#237;a)como eje did&#225;ctico fundamental en la escuela de ciudadania, liderazgo pol&#237;tico y liderazgo econ&#243;mico. </textoes>
+    <tituloes>Pregunta 2</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:14:00Z</created-at>
+    <comentario-id type="integer">539</comentario-id>
+    <id type="integer">541</id>
+    <textoes>&#191;Se podr&#237;an aplicar algunas de las din&#225;micas y aprendizajes de Ouarzazate a esos programas? Por ejemplo l&#237;neas de tiempo, fichas de cultura, din&#225;micas para trabajar los estereotipos de g&#233;nero (con proverbios u otros materiales culturales locales)... Porque, &#191;qu&#233; propon&#233;is hacer en el marco de este proyecto? &#191;qu&#233; alternativas tenemos en el momento pol&#237;tico actual, en que el gobierno se ha hecho cargo de la alfabetizaci&#243;n?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:13:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">539</id>
+    <textoes>El pr&#243;ximo trimestre empieza para nosotros en enero, pues las actividades est&#225;n en procesos de cierre en este momento en toda la instituci&#243;n.
+Sin embargo para estas &#250;ltimas cuatro semanas de el a&#241;o 2011 se planean 2 actividades relevantes:
+1ra: Encuentro local de productores, Micro y peque&#241;a empresa de la ciudad de El Alto, en torno a la tem&#225;tica de Econom&#237;a Plural y Econom&#237;a del Cuidado, que sera trabajado con metodolog&#237;a de educaci&#243;n Popular con el fin de generar iniciativas legislativas, o propuestas de pol&#237;tica p&#250;blica desde los sectores.
+2da: con el mismo objetivo, y aplicando la metodolog&#237;a de educaci&#243;n popular como base did&#225;ctica, tambien se desarrollara el encuentro de "J&#243;vnes por el Trabajo D&#237;gno", cabe recalcar que se pretende incidir en la ley de juventudes, trransversalizandola por conceptos e la econom&#237;a del cuidado.</textoes>
+    <tituloes>Pregunta 2</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:12:00Z</created-at>
+    <comentario-id type="integer">491</comentario-id>
+    <id type="integer">515</id>
+    <textoes>Por ser una frase preliminar estamos preparando el material para trabajar con esta poblaci&#243;n 
+Dificultad 
+Desde los mismos partitipantes se cree que ya es tarde par estudiar, "Para qu&#233; estudiamos". ", LO que fue fue", Loro viejo no aprende hablar"
+frente a las reflexiones sobre lo que piensan de la situaci&#243;n de ser hombre o mujeres opoinan 
+Guillermo Cardenas:_"Eso toca es con las nuevas generaciones"
+Blanca Bayona- "Yo creo que eso son inventos de ahora", para las que las mujeres trabajemos m&#225;s
+</textoes>
+    <tituloes>pregunta 2</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:11:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">491</id>
+    <textoes>...</textoes>
+    <tituloes>Valora la aplicaci&#243;n realizada de las herramientas de educaci&#243;n popular con perspectiva de g&#233;nero: como te sentiste facilitando el proceso, como fue la participaci&#243;n de las mujeres, que logros se alcanzaron, las dificultades encontradas, puntos fuertes, e</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:10:00Z</created-at>
+    <comentario-id type="integer">566</comentario-id>
+    <id type="integer">582</id>
+    <textoes>E como foi fazer essas fichas de cultura com prov&#233;rbios?  Que palavras geradoras foram identificadas neste processo que poderiam ser utilizadas durante a alfabetiza&#231;&#227;o?  As palavras geradoras devem ser escolhidas tamb&#233;m conforme a dificuldade sem&#226;ntica delas. </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:09:00Z</created-at>
+    <comentario-id type="integer">566</comentario-id>
+    <id type="integer">572</id>
+    <textoes>Hola Jeanne!!! Qu&#233; buena noticia. Leimos con mucho entusiasmo vuestro informe de formaci&#243;n a las facilitadoras. Cu&#233;ntanos un poco m&#225;s, &#191;qu&#233; tal os fueron los talleres? &#191;qu&#233; relaciones sociales donde se re-produce el sexismo identific&#225;steis? &#191;qu&#233; mecanismos sexistas aparecieron? &#191;les gust&#243; el taller a las mujeres? Queremos saber m&#225;s!!!</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:08:00Z</created-at>
+    <comentario-id type="integer">492</comentario-id>
+    <id type="integer">566</id>
+    <textoes>Nousec 15 avons fait un atelier en deux s&#233;ances avec 15 femmes  par s&#233;ance. A cet atelier nous avons fait deux fiches de culture &#224; partir des proverbes de la localit&#233;. Une fiche avec les proverbes sexistes f&#233;minins et une fiche avec les proverbes sexistes masculins</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:07:00Z</created-at>
+    <comentario-id type="integer">587</comentario-id>
+    <id type="integer">618</id>
+    <textoes>Personalmente, y como profesor que soy, creo que en nuestro contexto tenemos que pelear mucho para abrir salas de lafa en los colegios ciudadanos y de transformacion social... hemos heredado todo de Francia y para el alfa hay que prepararlo todo (livros, guias,progresion) y alfabetizar, un punto un trazo y decir cuanto hemos alfabetizado. es la reproducion de la escuela, el pesnamiento dominante, salvo que estamos frente a analfabetos. la duda es que los reaccionarios intentan hacernos perder por que la gente siempre tiene miedo de los pueblos cuando estos comprenden que puedn actuar</textoes>
+    <tituloes>Dudas??</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:06:00Z</created-at>
+    <comentario-id type="integer">492</comentario-id>
+    <id type="integer">560</id>
+    <textoes>No hay que olvidar los talleres de formacion organizados con los alfabetizadores en Benin, Mali y niger (en total) unas 120 personas.  El modulo contuvo la lectura de las imagenes en el material diadactico, la linea de tiempo individual y colectiva, la ficha de cultyura. Para mostrar de que manera los alfabetizandos puedes construir sus propios programas (con ejerscicios practicos</textoes>
+    <tituloes>APG en Africa</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:06:00Z</created-at>
+    <comentario-id type="integer">560</comentario-id>
+    <id type="integer">587</id>
+    <textoes>Enhorabuena, ten&#233;is un avance extraordinario. Decidme, &#191;qu&#233; dudas ten&#233;is sobre el m&#233;todo de educaci&#243;n popular con enfoque de g&#233;nero? &#191;alguna cosa que quer&#225;is comentar con nosotras? &#191;algo que quer&#225;is aclarar? &#191;alg&#250;n problema surgido de la puesta en pr&#225;ctica?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:05:00Z</created-at>
+    <comentario-id type="integer">554</comentario-id>
+    <id type="integer">561</id>
+    <textoes>Gracias Oumi, pienso que el grupo a avanzado bastante. Cuenta nos un poco mas, cuales son las palabras generadoras que han identificado? (Solo unos ejemplos)  </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:04:00Z</created-at>
+    <comentario-id type="integer">562</comentario-id>
+    <id type="integer">555</id>
+    <textoes>oumy del Senegal
+25 participantes de la red de rufisque estuvieron en cada taller, 32 participantes del lado de ndiago hombres y myjeres, 10 del lado de pikine</textoes>
+    <tituloes>Participantes</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:03:00Z</created-at>
+    <comentario-id type="integer">554</comentario-id>
+    <id type="integer">562</id>
+    <textoes>Hola Oumi, cuentanos, de que manera han organizado la fase inicial de "investigacion de vocabulario"? Pensamos que no ha sido explicado lo sufuciente en el seminario de Ouarzazate... </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:02:00Z</created-at>
+    <comentario-id type="integer">554</comentario-id>
+    <id type="integer">552</id>
+    <textoes>Necesitamos que nos digan tambien el nombre de las personas que bva a entrar al forum para poder inscribirlas</textoes>
+    <tituloes>Hola equipo de Pikine</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:01:00Z</created-at>
+    <comentario-id type="integer">492</comentario-id>
+    <id type="integer">554</id>
+    <textoes>Hola, es Oumy del senegal
+Hemos hecho 5 talleres desdes nuestro encuentro, 3 con la red de  rufisque,1 con el barrio ndiago y 1 con 10 alfabetizadoras de pikine</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T16:00:00Z</created-at>
+    <comentario-id type="integer">492</comentario-id>
+    <id type="integer">537</id>
+    <textoes>Ol&#225; a todos e todas!
+Trabalhamos at&#233; o m&#234;s de junho com o grupo mulheres da paz,e continuamos na tentativa de parceria com a UFRJ para implemetar a turma de alfabetiza&#231;&#227;o, por&#233;m sem recurso est&#225; cada vez mais dificil. </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Cida</nombre>
+      <id type="integer">200</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>cidararaujo@yahoo.com.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:59:00Z</created-at>
+    <comentario-id type="integer">544</comentario-id>
+    <id type="integer">547</id>
+    <textoes>Gracias Adita, pues en esos grupos iniciales, que trabajo Karina, se desarrollo m&#225;s el aspecto de enlace comercial, es decir que fuer&#243;n insertados en el Procesos de Asesoramiento Empresarial Integral, pues no olvides que adem&#225;s del tema de g&#233;nero, estos grupos, entraron en un proceso de conformaci&#243;n de grupos de productoras orientadas al Comercioo Justo y la Econom&#237;a Solidari.
+Es As&#237; que tenemos 35 mujeres de Suma Pancara articuladas a la Iniciativa de Articulaci&#243;n Comercial de Gregoria Apaza, Mama Rawa, Y son base de trabajo como representantes del sector artesanal para la elaboraci&#243;n de propuestas de pol&#237;ticas p&#250;blicas con enfoque de g&#233;nero. </textoes>
+    <tituloes>PENSANDO</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:58:00Z</created-at>
+    <comentario-id type="integer">533</comentario-id>
+    <id type="integer">544</id>
+    <textoes>Carlos, justamente me preguntaba siguen trabajando el proyecto con los mimso grupos de mujeres? ya que con ellas se empezo el diagnostico participativo y se r&#233;alizo el estudio de g&#233;nero y ESS. Entonces como estan continuando a trabajar con estos grupos? 
+Durante el estudio Karina habia comenzado a explorar como trabajar g&#233;nero con grupos mixtos.. con las familias. No se como lo estan haciendo?
+El grupo de Paris tambien comenzo  trabajando g&#233;nero antes de alfabetizacion y al final conservo dos grupos uno solo con talleres de genreo utilizando lametodologia de educacion popiular y el otro lafa y g&#233;nero. solo queria decirte que es posible utilizar la educacion popular aunque no se trabaje alfa.
+</textoes>
+    <tituloes>pensando</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:57:00Z</created-at>
+    <comentario-id type="integer">542</comentario-id>
+    <id type="integer">540</id>
+    <textoes>Concretamente lo que se precisa es financiadores para procesos de alfabetizaci&#243;n, y lo digo conciente de que en el procesos de busqueda de financiameinto hubo problemas en el envio desde Gregoria Apaza de los documentos de respaldo que solicitaba la red.
+Lamentablemente esto esta fuera del alcance de mis acciones pues depende de direcci&#243;n Ejecutiva, Coordinaci&#243;n General y Plajnificacio&#243;n.
+
+</textoes>
+    <tituloes>Pregunta 1</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:56:00Z</created-at>
+    <comentario-id type="integer">545</comentario-id>
+    <id type="integer">542</id>
+    <textoes>Creo que esta es la respuesta a la pregunta tres &#191;no es cierto? Te respondo en la misma l&#237;nea de antes: &#191;de qu&#233; manera se va a aplicar lo aprendido en Ouarzazate, si es el caso? Desde luego sois una organizaci&#243;n lider en cuestiones de g&#233;nero, tambi&#233;n ten&#233;is mucho recorrido en temas de educaci&#243;n popular... pero, &#191;alg&#250;n aprendizaje tras Ouarzazate? &#191;alg&#250;n impacto pr&#225;ctico?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:55:00Z</created-at>
+    <comentario-id type="integer">538</comentario-id>
+    <id type="integer">545</id>
+    <textoes>Gracias Marta, si evidentemente las particularidades nos d&#225;n riqueza, asi que como ejemplo claro te comento que se trabajaron concretamente dos tem&#225;ticas:
+1.- Econom&#237;a del Cuidado: desde la producci&#243;n de subjetividades subordinadas a partir de la producciones conversacionales. Es aqui donde se trabajo los dichos tradicionales que confinan a la mujer en el espacio dom&#233;stico: "El hombre para la calle, la mujer para la casa", el panorama de discuci&#243;n planteado entre las mujeres participantes se centro en los procesos de semi-transgresi&#243;n y transgresi&#243;n de espacios definidos para mujeres a espacios productivos, laborales y representativos.
+2.- Sexualidad e Identidad de G&#233;nero: Esta tem&#225;tica, se trabajo bajo la misma estructura metodol&#243;gica, profundizando en los aspectos relativos a la contraposici&#243;n entre "Deseo y Placer",los impactos de la colonizaci&#243;n del cuerpo de la mujer.
+Uno de los dichos resaltados es: "En la calle una dama, en la cama una puta"
+3.- Logicamenete los dos temas trabajados, no han sido profundizados al nivel que se requiere desde el punto de vista institucional, ya que cada uno de ellos se desarrollo en solo 24 horas.
+Sumando los procesos de preparaci&#243;n de las propuestas de politica p&#250;blica, estimamos llegar al menos 48 horas de tratamiento por tem&#225;tica.
+ </textoes>
+    <tituloes>Pregunta 1</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:54:00Z</created-at>
+    <comentario-id type="integer">533</comentario-id>
+    <id type="integer">538</id>
+    <textoes>Hola Carlos. Creo que cada grupo tiene unas especificidades que hay que ir abordando. Por mi parte, desde el trabajo en g&#233;nero, se me ocurre lo siguiente: la din&#225;mica de rescatar proverbios como forma de identificar las relaciones sociales donde se re-produce el sexismo y los mecanismos sexistas en ellas insertos, ha resultado muy interesante en Mal&#237; y en Senegal. Ha sido una forma de poner en cuesti&#243;n la cultura muy valiosa. No s&#233; si has visto los informes de esos pa&#237;ses, si no lo has hecho a&#250;n &#233;chales un vistazo y ver&#225;s lo significativos que resultan. Bueno, esto para decirte que quiz&#225;s se pueda utilizar una metodolog&#237;a similar en El Alto, aunque no sea en el marco de procesos de alfabetizaci&#243;n. Me parece necesario encontrar maneras de discutir con las mujeres aymaras a partir de su propia cultura aymara. Esto es un reto grande y dif&#237;cil, pero es necesario, porque promueve el aprendizaje mutuo, la escucha a las mujeres participantes, el acercamiento a la cultura aymara. &#191;Podr&#237;ais hacer una prueba, por ejemplo, en el marco de los programas de liderazgo o de formaci&#243;n t&#233;cnica, a ver qu&#233; resulta? Esto es lo que se me ocurre ahora, espero tus reacciones.
+
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:53:00Z</created-at>
+    <comentario-id type="integer">492</comentario-id>
+    <id type="integer">533</id>
+    <textoes>Aca en Bolivia tuvimos que trabajar ya con el tema de comercio justo y economia solidaria, puesto que como mencionamos en el taller de Marruecos, cuando Bolivia fue declarada libre de analfabetizmo gracias a sus dos programas: "yo si puedo" y "Yo si puedo seguir", se instalaron ciertas pr&#225;cticas como las denominadas "alfabetizaci&#243;n productiva" que en alg&#250;n momento intentamos seguir institucionalmente. 
+Estos programas, consisten en articular la capacitaci&#243;n t&#233;cnica con la alfabetizaci&#243;n, dotando de equipo, materialesy facilitdores a la poblaci&#243;n beneficiaria de manera gratuita.
+Bueno m&#225;s alla de si el proceso es bueno o malo, los efectos fueron catastr&#243;ficos para los programas de alfabetizaci&#243;n manejados por ONG's, pues no hayen este momento cooperaci&#243;n que financie este tipo de programas pues el gobierno tiene el monopolio.
+Por otro lado, a la poblaci&#243;n alte&#241;a, sobre todo le interesa mejorar sus ingresos, antes que participar en procesos de alfabetizaci&#243;n, asi que se ha generado como una cultura de pedir materiales y capacitaci&#243;n t&#233;cnica, como condici&#243;n para participar en los procesos de alfabetizaci&#243;n.
+Esto dificulta el proceso de gran manera pues debes disponer de recursos financieros para poder intervenir en el requerimiento t&#233;cnico productivo, como "anzuelo" para procesos de alfabetizaci&#243;n. </textoes>
+    <tituloes>Pregunta 1</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:52:00Z</created-at>
+    <comentario-id type="integer">517</comentario-id>
+    <id type="integer">527</id>
+    <textoes>Martha
+Creemos que es muy importante tener en cuenta esta poblaci&#243;n porque en colombia va en aumento y estan aislados y son utilizados en las deciciones de tipo pol&#237;tico, por ejemplo en esta elecciones ellos fueron los que elegieron representantes asesorados por "politiqueros de  turno"
+Los j&#243;venes se movilizan y tienen sus medios de comunicaci&#243;n pero los abuelos no.
+&#191;Pistas para abordar esta area en la alfabetizaci&#243;n?</textoes>
+    <tituloes>pregunta 1 martha</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:51:00Z</created-at>
+    <comentario-id type="integer">511</comentario-id>
+    <id type="integer">517</id>
+    <textoes>Graciela, esto que comentas es muy interesante en dos sentidos: 1) Es cierto que siempre se piensa que las personas mayores no est&#225;n abiertas al cambio, menos a&#250;n en lo que concierne al g&#233;nero. &#191;Es as&#237;? &#191;y qu&#233; opinan estas abuelas y abuelos sobre la justicia de g&#233;nero para las nuevas generaciones, c&#243;mo act&#250;an con esas nuevas generaciones? Ellas y ellos tienen un papel muy importante en su educaci&#243;n, por ejemplo, &#191;animan a sus hijas e hijos a que lleven a las wawas al colegio? &#191;a compartir las tareas del hogar? &#191;les gusta a las abuelas sufrir discriminaci&#243;n de g&#233;nero o son cr&#237;ticas a ciertas pr&#225;cticas como la violencia, la doble carga de trabajo, que se les privase de una educaci&#243;n cuando eran j&#243;venes, etc? 2) Una de las frases que comentas parece hablar de que creen que la situaci&#243;n de las mujeres ha empeorado &#250;ltimanente, &#191;en qu&#233; sentido?
+
+Esperamos vuestros comentarios cuando pas&#233;is a la pr&#243;xima etapa de discusi&#243;n del sexismo con los abuelos y abuelas, sobre c&#243;mo os sent&#237;steis hablando de ello, c&#243;mo se sintieron ellos, etc.
+
+Por &#250;ltimo, las frases que citas son muy interesantes, espero que la sig&#225;is recogiendo como el material precioso que es y que las sig&#225;is compartiendo con nosotros.
+
+Saludos</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:50:00Z</created-at>
+    <comentario-id type="integer">511</comentario-id>
+    <id type="integer">516</id>
+    <textoes>Hola Graciela. Qu&#233; interesante que est&#233;n trabajando con gente mayor!!! Hablando de estereotipos, se asocia mucho a la gente mayor migrante con la ignorancia, no se aprecia sus saberes, se les representa como incapaces de aprender... qu&#233; mejor herramienta para luchar contra esos estereotipos (que adem&#225;s se interiorizan) que demostrando lo contrario!!! Me parece un trabajo del mayor inter&#233;s.
+
+Tenemos que tener en cuenta que en este caso estamos frente a un grupo mixto, de hombres y mujeres. El resto de grupos de alfa de QdM creo que son s&#243;lo de mujeres. Trabajar sobre el sexismo en espacios mixtos es muy necesario, porque necesitamos que tambi&#233;n los varones colaboren en el crecimiento de las mujeres. Tendr&#237;amos que pensar en metodolog&#237;as adecuadas para trabajar en grupos mixtos, seguiremos compartiendo e intercambiando con vosotros.
+
+Creo que ser&#237;a muy interesante que en la investigaci&#243;n vocabular (creo que est&#225;is en esa fase si no me equivoco) procur&#233;is identificar las diferencias entre hombres y mujeres mayores: &#191;todos realizan las mismas actividades? &#191;qu&#233; tipo de ingresos tienen unos y otras para sobrevivir? &#191;gozan del mismo tiempo libre? &#191;est&#225;n retirados de sus trabajos (incluyo aqu&#237; el trabajo dom&#233;stico) o siguen en activo? Intentad observar esto a ver qu&#233; resulta.
+
+Cuando hag&#225;is las fichas de cultura intentad manteneros sensibles al g&#233;nero, para el debate.
+
+Enhorabuena, el trabajo parece muy interesante, esperamos m&#225;s noticias vuestras.
+
+Un abrazo,
+
+Marta
+
+
+
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:49:00Z</created-at>
+    <comentario-id type="integer">492</comentario-id>
+    <id type="integer">511</id>
+    <textoes>Estamos realizando el ejercicio con el grupo Abuelos y abuelas al Rescate son 20 personas 14 mujeres y 6 hombres entre los 55 y 81 a&#241;os
+los jueves entre las 2 y 4 de la tarde
+hemos realizado 6 talleres iniciamos el 6 de octubre
+Herramientas
+Fotos
+Pel&#237;cula de la India Mar&#237;a.lA SE&#209;ORA PRESIDENTA
+y Cantinflas :EL ANALFABETA
+que son las que mas les  gusta
+Qu&#233; papel desempe&#241;an las mujeres y los hombres en las pel&#237;culas?oficios, vestuario
+Hora del cuento:Del campo a la ciudad
+De donde soy?
+Como fue mi llegada a bogot&#225;?
+Porqu&#233; me vine a Bogot&#225;? 
+A&#250;n no se inicia la elaboracion de la ficha cultural porque estamos en la fase preliminar que va hasta el 24 de noviembre
+Las reflexiones, frases, palabras  recurrentes frente a que significa ser viejo son:
+abuelo, pasado, soledad, enfermedad, experiencia, hijos, nietos
+La labor en las casas para las abuelas sigue siendo la de cuidar a los nietos, hacer ofocio, ir a pagar los servicios esto lo hacen para no se una carga y porque como no trabajan y llevan dinero 
+"Somos otra vez como ni&#241;os chiquitos"
+"Tenemos que pedir permiso par salir"
+
+
+
+
+
+ 
+</textoes>
+    <tituloes>pregunta 1</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:48:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">492</id>
+    <textoes>...</textoes>
+    <tituloes>Describa la aplicaci&#243;n realizada de las herramientas de educaci&#243;n popular con perspectiva de g&#233;nero: N&#176; de talleres realizados, participantes, herramientas utilizadas, etc.</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:47:00Z</created-at>
+    <comentario-id type="integer">580</comentario-id>
+    <id type="integer">573</id>
+    <textoes>Creo que podriamos pensar un taller de puesta en comun de experiencias sobre la aplicacion de las herramientas. Por otra lado dime cuantos participantes tienes en tu espacio? Bienevido al foro</textoes>
+    <tituloes>Hola Seynabou y Rufisque</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:46:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">580</id>
+    <textoes>Es con placer que el equipo de Rufisque y la mujeres de la red Suxaat les mandan saludo a usted y a Alassane y Adiouma
+el foro es interesante
+Seynabou ndiaye Suxaat
+</textoes>
+    <tituloes>Saludos a Oumy</tituloes>
+    <usuarioforo>
+      <nombre></nombre>
+      <id type="integer">198</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>makhfouzgueye@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:45:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">559</id>
+    <textoes>que possamos trocar bastante experi&#234;ncia em rela&#231;&#227;o ao que estamos fazendo em nossas atividades de alfabetiza&#231;&#227;o numa perspectiva de g&#234;nero. parab&#233;ns a todas n&#243;s.
+beijos
+Marjorie Botelho</textoes>
+    <tituloes>hola</tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:44:00Z</created-at>
+    <comentario-id type="integer">525</comentario-id>
+    <id type="integer">531</id>
+    <textoes>Hola Carlos, estoy en Quito!!! Cualquier d&#237;a me caigo por El Alto</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:43:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">525</id>
+    <textoes>Pues despues de medio a&#241;o, al fin compartiendo espacios nuevamente con ustedes.
+Gracias por la oportunidad</textoes>
+    <tituloes>Hola a todas y todos</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:42:00Z</created-at>
+    <comentario-id type="integer">551</comentario-id>
+    <id type="integer">589</id>
+    <textoes>Hola Alasane, &#191;y qu&#233; apoyo de nuestra parte, del equipo de coordinaci&#243;n? adelante, contadnos qu&#233; asuntos no quedaron claros, qu&#233; apoyo quisi&#233;rais de nuestra parte, etc</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:41:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">551</id>
+    <textoes>Equipo de Pikine
+Para el forum del 16, las facilitadoras han sido invitadas por Oumy a la casa de la Mujer. Estaran Fatimata, Absa Mar y probablemente Adji Ba
+Dos camaradas facilitadoras de la red de mujeres de Rufusque estan experimentando tambien participaran. espero que sus direcciones mail hayansido integradas.
+En lo que me concierne responder&#233; a las preguntas desde mi perspectiva sorbe lo internacional. Buen foro, es tambien un test a ver si funciona</textoes>
+    <tituloes>equipo de Pikine</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:40:00Z</created-at>
+    <comentario-id type="integer">508</comentario-id>
+    <id type="integer">523</id>
+    <textoes>Buenos d&#237;as Soraia
+Esramos muy contentas de poder contactarnos con ustedes un c&#225;lido abrazo de las mujeres de Loma verde</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:35:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">508</id>
+    <textoes>Ol&#225;!boa tarde a todos!aqui &#233; cida!</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Soraia</nombre>
+      <id type="integer">147</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>soraia.db@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:30:00Z</created-at>
+    <comentario-id type="integer">503</comentario-id>
+    <id type="integer">506</id>
+    <textoes nil="true"></textoes>
+    <tituloes nil="true"></tituloes>
+    <usuarioforo>
+      <nombre>Jennifer Quintas</nombre>
+      <id type="integer">189</id>
+      <equipo-id type="integer">15</equipo-id>
+      <email>jennifer.quintas@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:28:00Z</created-at>
+    <comentario-id type="integer">502</comentario-id>
+    <id type="integer">503</id>
+    <textoes>desculpem...aqui &#233; cida.O meu eail n&#227;o est&#225; cadastrado, por isso n&#227;o conseguia entrar.
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Soraia</nombre>
+      <id type="integer">147</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>soraia.db@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:26:00Z</created-at>
+    <comentario-id type="integer">501</comentario-id>
+    <id type="integer">502</id>
+    <textoes>que bom menina entrou!!
+saudades!</textoes>
+    <tituloes>Hola soriai!!</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:25:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">501</id>
+    <textoes>Boa tarde!!!finalmente consegui entrar...uffa!!!
+</textoes>
+    <tituloes>Buenas tardes finalmente conesgui enrar, ufa!</tituloes>
+    <usuarioforo>
+      <nombre>Soraia</nombre>
+      <id type="integer">147</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>soraia.db@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:20:00Z</created-at>
+    <comentario-id type="integer">496</comentario-id>
+    <id type="integer">499</id>
+    <textoes>Hola Graciela!!!! Un gusto tenerte por aqu&#237;. Cuando quieras pasa a responder las preguntas que est&#225;n m&#225;s abajo y vamos debatiendo. Un abrazo, Marta</textoes>
+    <tituloes>Respuesta a Graciela</tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:18:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">496</id>
+    <textoes>Chog&#252;e sua mena furas y shas (Buenos d&#237;as mujeres y hombres) en muisca
+Reciban un calido abrazo desde el cerro sur  de Suba en Bogot&#225; y de las mujeres del colectivo Loma verde</textoes>
+    <tituloes>Saludos a todos y todas</tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:14:00Z</created-at>
+    <comentario-id type="integer">495</comentario-id>
+    <id type="integer">498</id>
+    <textoes>Aqui es de tarde! Encantada Marta! </textoes>
+    <tituloes>Buenos dias !!</tituloes>
+    <usuarioforo>
+      <nombre>Natalia</nombre>
+      <id type="integer">143</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>natalia.resimont@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:12:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">495</id>
+    <textoes>Hola, &#191;c&#243;mo est&#225;n? buenos d&#237;as a quienes est&#225;n en Am&#233;rica Latina y buenas tardes a quienes est&#225;n al otro lado del charco. Esperamos su participaci&#243;n!!!</textoes>
+    <tituloes>Saludos</tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:10:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">494</id>
+    <textoes>Bueno es la primera vez que participo "sola" a este foro , gracias de guiarme. 
+
+Marcela Vergara 
+
+de Forest Quartiers Sant&#233;</textoes>
+    <tituloes>Hola a todas!</tituloes>
+    <usuarioforo>
+      <nombre>Natalia</nombre>
+      <id type="integer">143</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>natalia.resimont@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:05:00Z</created-at>
+    <comentario-id type="integer">553</comentario-id>
+    <id type="integer">497</id>
+    <textoes>Gracias Ada por invitarme! 
+
+Marcela </textoes>
+    <tituloes>Merci</tituloes>
+    <usuarioforo>
+      <nombre>Natalia</nombre>
+      <id type="integer">143</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>natalia.resimont@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-20T15:00:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">553</id>
+    <textoes>Hola compa&#241;er@s de Mujeres del mundo, ya estamos en el foro del nuevo sitio de Barrios del Mundo que aun no esta en linea y lo estamos probando. 
+En el foro encontraran las diferentes preguntas que les enviamos por mail. la idea es que en cada pregunta entren y pulsen sobre el texto, asi este se abrira y les dara la oportunidad de responder y comentar.
+La idea es de conversar e intercambiar entre tod@s nosotr@s, de poder preguntarse y comentarse mutualmente. marta y Marjoire estan aqui y daran respuestas, toques, informaciones y sobre todo guiaran el debate.
+Por favor sean concisos Jenny, Natali y yo estamos en la traduccion.
+Buen foro!</textoes>
+    <tituloes>Bienvenid@s al Foro de alfa con Perpsctiva de g&#233;nero!</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T17:58:33Z</created-at>
+    <comentario-id type="integer">588</comentario-id>
+    <id type="integer">594</id>
+    <textoes>vamos come&#231;ar a identificar a complexidade das palavras geradoras que voc&#234;s identificaram.  Depois da identifica&#231;&#227;o das palavras geradoras come&#231;amos a trabalhar as fam&#237;lias dos fonemas, por isso, essas palavras devem ser apresentadas come&#231;ando com a menor dificuldade fon&#233;tica e sint&#225;tica poss&#237;vel.  O mais importante &#233; que a palavra geradora seja uma palavra que elas se identifiquem. 
+Essas palavras foram identificadas atrav&#233;s da din&#226;mica da linha do tempo individual e coletiva? Foram identificadas com as mulheres que v&#227;o ser as alfabetizadoras ou que ser&#227;o alfabetizadas?  </textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T17:55:01Z</created-at>
+    <comentario-id type="integer">611</comentario-id>
+    <id type="integer">622</id>
+    <textoes>AGR significa actividades generadoras de ingresos</textoes>
+    <tituloes>AGR</tituloes>
+    <usuarioforo>
+      <nombre>Oumy Ba</nombre>
+      <id type="integer">184</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>oumoulkhairy84@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T16:43:38Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">626</id>
+    <textoes>OK</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T16:38:06Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">623</id>
+    <textoes>Tenemos una gran tarea por delante!!!</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T16:06:52Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">601</id>
+    <textoes>Esto me parece muy interesante. Adem&#225;s, estamos desde el equipo de coordinaci&#243;n afinando y sistematizando mejor la metodolog&#237;a EPG, construida por nosotros mismos y os ser&#225; muy &#250;til para el intercambio y para afianzar contenidos. &#191;Qu&#233; os parecer&#237;a planificar esa actividad en el marco de este proyecto, para el pr&#243;ximo trimestre? Ser&#237;a muy enriquecedor para todxs las partes</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T16:03:27Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">598</id>
+    <textoes>&#191;Ya hab&#233;is hecho los talleres sobre los proverbios con las participantes en la alfabetizaci&#243;n? &#191;qu&#233; resultados?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T15:45:43Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">583</id>
+    <textoes>Estamos muy contentas de contar con vosotrxs, vienvenidxs</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T15:09:17Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">558</id>
+    <textoes>He utilizado la l&#237;nea de tiempo individuales y colectivas (trabajo en grupo)
+De este trabajo he resaltado las palabras generadoras para introducir el alfa
+estas herramientas han atra&#237;do la participaci&#243;n y el intercambio de todos los estudiantes</textoes>
+    <tituloes>herramientas</tituloes>
+    <usuarioforo>
+      <nombre></nombre>
+      <id type="integer">198</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>makhfouzgueye@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T15:36:09Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">528</id>
+    <textoes>Hola Carlos que gusto!!
+bueno para orientarte en este foro que esta medio loco o enloquecedor!
+las preguntas estan abajo, puedes pulsar en la pregunta y se abre la posibilidad de responder y o hacer un comentario la idea es de comentar las respuestas que se van escribiendo para tener una continuidad en la convesacion!
+un abrazo</textoes>
+    <tituloes>Hola Carlos que gusto!</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T15:20:37Z</created-at>
+    <comentario-id type="integer">493</comentario-id>
+    <id type="integer">522</id>
+    <textoes>Sigo con ustedes, ya envie respuesta a la pregunta 1</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Graciela Quintero Medina</nombre>
+      <id type="integer">165</id>
+      <equipo-id type="integer">12</equipo-id>
+      <email>milomaverde@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:53:40Z</created-at>
+    <comentario-id type="integer">493</comentario-id>
+    <id type="integer">514</id>
+    <textoes>OI Cida querida aqui para orientar a voce a gente esta respondendo a primera pergunta que esta la embaixo: e solicita que a gente diga o que esta fasendo e como esta fasendo... a Graciela conen&#231;ou respondendo... vais para leer et logo voc&#234; faz "reponder ao comentario" e continua a conversa</textoes>
+    <tituloes>cida para orientarte</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:48:37Z</created-at>
+    <comentario-id type="integer">493</comentario-id>
+    <id type="integer">513</id>
+    <textoes>&#233; a primeira vez que partipo do foro, podem me oreintar por favor?</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Cida</nombre>
+      <id type="integer">200</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>cidararaujo@yahoo.com.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:37:38Z</created-at>
+    <comentario-id type="integer">493</comentario-id>
+    <id type="integer">510</id>
+    <textoes>Acho que agora deu certo!
+boa tarde!!</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Cida</nombre>
+      <id type="integer">200</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>cidararaujo@yahoo.com.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:28:40Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">507</id>
+    <textoes>Tanto tiempo espero estas bien como anda las cosas por alla?
+Abrazos</textoes>
+    <tituloes>Hola Ada</tituloes>
+    <usuarioforo>
+      <nombre>Marcela de FQS</nombre>
+      <id type="integer">199</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>vergaramarcela@ymail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:27:08Z</created-at>
+    <comentario-id type="integer">504</comentario-id>
+    <id type="integer">505</id>
+    <textoes>Hola Marcela, un gusto tenerte  con nosotros. Pasa a visitar las preguntas y a responderlas, luego estableceremos un debate contigo. Saludos, Marta</textoes>
+    <tituloes>Saludos</tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:25:27Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">504</id>
+    <textoes>Comment vas-tu?</textoes>
+    <tituloes>Bon apr&#232;s-midi</tituloes>
+    <usuarioforo>
+      <nombre>Marcela de FQS</nombre>
+      <id type="integer">199</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>vergaramarcela@ymail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-15T14:18:14Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">500</id>
+    <textoes>Salutations depuis Bruxelles!!Marcela Vergara</textoes>
+    <tituloes>Bonjour</tituloes>
+    <usuarioforo>
+      <nombre>Marcela de FQS</nombre>
+      <id type="integer">199</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>vergaramarcela@ymail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-13T17:42:21Z</created-at>
+    <comentario-id type="integer">488</comentario-id>
+    <id type="integer">529</id>
+    <textoes>Graciela, me parece interesant&#237;simo el uso que est&#225;is haciendo del audiovisual en vuestro trabajo. Es una herramienta muy poderosa. En este momento lo &#250;nico que se me ocurre es pasaros el link del v&#237;deo "Las awichas" que os puse en Ouarzazate. Fue un v&#237;deo que hicieron ellas mismas. Contra el estereotipo de que las personas mayores migrantes e ind&#237;genas "no saben nada", "son ignorantes" y mucho menos podr&#237;an manejar las nuevas tecnolog&#237;as... pues aqu&#237; tenemos este v&#237;deo realizado &#237;ntegramente por abuelas (awichas). Ellas lo pensaron, lo filmaron, lo actuaron... necesitaron solamente un taller de formaci&#243;n y apoyo t&#233;cnico en la fase de montaje.
+
+http://www.youtube.com/watch?v=5BcR3AUggT4
+
+En cuanto al apoyo pedag&#243;gico para trabajar con gente mayor, le pasamos a Marjorie tu inquietud. En cuanto al g&#233;nero, ya te he pasado algunas ideas en las anteriores respuestas, pero me gustar&#237;a que sigamos debatiendo porque el colectivo de gente mayor tiene caracter&#237;sticas especiales y distintas del resto de los grupos de Barrios del Mundo con que trabajamos en este proyecto. Te propongo algo: con los comentarios que os he hecho en este foro virtual y con lo que ya sab&#233;is, pensad un poco en c&#243;mo aplicar el enfoque de g&#233;nero, empezad a hacerlo (sobre todo en esta primera fase de investigaci&#243;n vocabular) y debatimos los resultados dentro de... &#191;un mes? 
+</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-13T17:42:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">526</id>
+    <textoes>Como estas querida Martha, que gusto saber de t&#237;</textoes>
+    <tituloes>Hola Espa&#241;a</tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-12T17:42:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">509</id>
+    <textoes>Hola todas, 
+
+aqui des de Rabat para explicarles como funicona este nuevo foro.
+las preguntas estan mas abajo, buien mas abajo y vamos a comenzar con la 1ra pregunta: "describa las aplicaciones realizadas de las herramientas"...
+ que respondan a ese comentario sin abrir nuevos comentarios pues la conversacion se va para otra direccion!
+vamos viendo juntas!
+un abrazo
+
+</textoes>
+    <tituloes>vamos viendo como funciona el sitio</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-12T17:42:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">512</id>
+    <textoes>Hola Graciela, &#191;sigues conectada? &#191;est&#225;s ya respondiendo la pregunta uno?</textoes>
+    <tituloes>Para Graciela</tituloes>
+    <usuarioforo>
+      <nombre>Marta</nombre>
+      <id type="integer">162</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>cabezasmarta@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-12T17:42:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">493</id>
+    <textoes>Compa&#241;er@s de mujeres del mundo si estan leyendo este mensaje es que ya estan en el foro virtual!
+No se olviden de actualizar sus paginas para recibir los nuevos comentarios y las traducciones.
+Estaremos con Natalia y Jenny traduciendo sus comentarios... buen foro!
+ada</textoes>
+    <tituloes>Bienvenidas al Foro de alfa con Perpsctiva de g&#233;nero!</tituloes>
+    <usuarioforo>
+      <nombre>Ada</nombre>
+      <id type="integer">142</id>
+      <equipo-id type="integer" nil="true"></equipo-id>
+      <email>ada.bazan@quartiersdumonde.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">0011-11-20T18:17:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">548</id>
+    <textoes>El tiempo fue muy corto, apenas si se pudo responder algunas preguntas y leer otro poco de las participaciones de los colegas, espero con ansias el d&#237;a de ma&#241;ana.
+
+Con mas preguntas que respuestas,gracias mil
+Saludos 
+Carlos</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Carlos Rafael Ormachea Munoz</nombre>
+      <id type="integer">170</id>
+      <equipo-id type="integer">13</equipo-id>
+      <email>carlosormachea@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+</comentarios>

@@ -1,15 +1,21 @@
 	RectangleConTexto rectangleConTexto;
 Log log=new Log();
-
+ServicioLoadEquiposXML load=new ServicioLoadEquiposXML();
 void setup() {
   size(800, 600);
   smooth(); 
-  		String mensaje = "me pareci&#243; muy interesante tu comentario acerca de la juventud.... al final del mismo preguntabas lo";
+  		String mensaje = "lista de equipos";
 		int anchoRectangle = 100;
 		int altoRectangle = 100;
 		float posXRectangle = 100;
 		float posYRectangle = 100;
+		
+		List<Equipo> equipos=load.procesaXML("equipos.xml");
+		for(Equipo e:equipos){
+		mensaje+=e.nombre+" ";
+		}
 	 rectangleConTexto = new RectangleConTexto( mensaje, posXRectangle, posYRectangle,anchoRectangle, altoRectangle);
+	 
 }
 
 void draw() {

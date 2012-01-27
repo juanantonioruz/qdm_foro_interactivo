@@ -285,7 +285,7 @@ float anchoColumna = getWidth() / cc.columnas;
 				//|| celda==celdaSeleccionada ampliar condicion para que aparezca texto en celda seleccionada
 				//(celda.getHeight()==celda.getHeightFinal()
 				celda.rectangleConTexto.setMedidas(celda.getX(), celda.getY(), celda.getWidth(), celda.getHeight());
-				celda.rectangleConTexto.display(true);
+				celda.rectangleConTexto.display(false);
 				// text(celda.comentario.usuario.nombre, celdaX, celdaY +
 				// celdaHeight / 4);
 				// text(celda.comentario.titulo, celdaX, celdaY + celdaHeight

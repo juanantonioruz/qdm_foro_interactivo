@@ -1,8 +1,11 @@
 class ServicioLoadEquipos {
 
-	List<Equipo> equipos= new ArrayList<Equipo>();
+	List<Equipo> equipos;
 	ServicioLoadForosXML forosXMLLoad;
+	ServicioLoadEquiposXML loadEquipos=new ServicioLoadEquiposXML();
+	
 	public ServicioLoadEquipos() {
+			/*
 			equipos.add(new Equipo( 1, "bamako", "Niamakoro y Sicoro"));
 			equipos.add(new Equipo( 2, "barcelona", "Casc Antic"));
 			equipos.add(new Equipo( 3, "bogota", "Chapinero"));
@@ -13,6 +16,8 @@ class ServicioLoadEquipos {
 			equipos.add(new Equipo( 8, "pikine", "Wakhinane"));
 			equipos.add(new Equipo( 9, "rio",  "La Maré y Rio das Pedras"));
 			equipos.add(new Equipo( 10, "sale", "Karyan El Oued"));
+			*/
+			equipos=loadEquipos.procesaXML("equipos_jeunes.xml");
 			ArrayList listaColoresEquipo = new ServicioToxiColor().iniciaColoresEquiposBis();
 			for (int i = 0; i < equipos.size(); i++){
 				equipos.get(i).setColor(listaColoresEquipo.get(i));
