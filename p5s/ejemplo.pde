@@ -2,15 +2,15 @@
 Log log=new Log();
 ServicioLoadEquiposXML load=new ServicioLoadEquiposXML();
 void setup() {
-  size(800, 600);
+	size($(window).width(), $(window).height());
   smooth(); 
-  		String mensaje = "lista de equipos";
+  		String mensaje = "lista de equipos lista de equiposlista de equiposlista de equiposlista de equiposlista de equipos";
 		int anchoRectangle = 100;
 		int altoRectangle = 100;
 		float posXRectangle = 100;
 		float posYRectangle = 100;
 		
-		List<Equipo> equipos=load.procesaXML("equipos.xml");
+		List<Equipo> equipos=load.procesaXML("equipos_jeunes.xml");
 		for(Equipo e:equipos){
 		mensaje+=e.nombre+" ";
 		}
