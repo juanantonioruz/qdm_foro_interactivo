@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comentarios type="array">
+  <comentario>
+    <created-at type="datetime">2011-11-16T17:53:48Z</created-at>
+    <comentario-id type="integer">402</comentario-id>
+    <id type="integer">637</id>
+    <textoes></textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre>Karine Bague</nombre>
+      <id type="integer">150</id>
+      <equipo-id type="integer">15</equipo-id>
+      <email>karine.bague@archipelia.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T16:58:41Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">633</id>
+    <textoes>Hola a tod@s, con jenny hemos comenzado desde octubre el trabajo con el grupo de taller linguistico de post-alfabetizacion una vez por semana, mas o menos.
+Tenemos un grupo compuesto de unas Quince personas encencialemnte mujeres y dos hombres.
+los origenes de los participantes son muy diversos: Argelia, Marruecos, Mali, senegal, China, Vietnam.
+En general se trata de personas que hablan bastante bien franc&#233;s que han tenido uno o dos a&#241;os de clases de alfabetizacion.
+Trabajamos sobre las fichas de cultura al rededor de la pregunta "que es ser un hombre?" "que es ser una mujer" y sobre las malavras generadoras.
+las personas les gusto el proyecto y se expresaron bastante libremente sobre los diferentes temas abordados.
+Pensamos continuar sobre las canciones y los proverbios alrededor de estos temas en las proximas sesiones. Nos parece qui quizas sea algo temprano para hacer las lineas de tiempo puesto que ellas imlican la puesta en comun de experiencias personales. Tendriamos que esperar un poco para consolidar relaciones de confianza en el seno del grupo, que les parece?
+Virgunie  
+</textoes>
+    <tituloes>Grupo de post alfa jenifer virginie</tituloes>
+    <usuarioforo>
+      <nombre>Karine Bague</nombre>
+      <id type="integer">150</id>
+      <equipo-id type="integer">15</equipo-id>
+      <email>karine.bague@archipelia.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T16:25:17Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">613</id>
+    <textoes>Nosotras analizamos que utilizar la herramienta de las lineas del tiempo es muy enriquecedor, pudimos identificar palabras generadoras sobre las cuales hemos trabajado. Sin embrago esta herramienta debe ser aplicada con precaucion pues puede engendrar reacciones inesperadas, momentos emocionalmente fuertes. La facilitacion no debe ser intrusiva ni psicoanalisante y las facilitadoras deben perpara bien el taller</textoes>
+    <tituloes>Jenny y Karine</tituloes>
+    <usuarioforo>
+      <nombre>Karine Bague</nombre>
+      <id type="integer">150</id>
+      <equipo-id type="integer">15</equipo-id>
+      <email>karine.bague@archipelia.org</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-16T15:22:03Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">564</id>
+    <textoes>Buenas tardes, mi nombre es Nogaye Seck del programa Rufisque SUUXAT con CIDEAL. Nosotros utilisamos herramientas de educaci&#243;n popular con PG. con la colaboraci&#243;n de GRAINE Senegal y sus l&#237;deres.
+Desde entonces, estamos probando la metodologia que genera inter&#233;s y entusiasmo. Permite resolver las dificultades aqu&#237; y all&#225;, promueve la conciencia y la voluntad de abordar el problema de las ausencias en las clases de alfabetizaci&#243;n</textoes>
+    <tituloes></tituloes>
+    <usuarioforo>
+      <nombre></nombre>
+      <id type="integer">198</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>makhfouzgueye@hotmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-11-13T17:42:21Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">543</id>
+    <textoes>hola es Alassane</textoes>
+    <tituloes>Test faye</tituloes>
+    <usuarioforo>
+      <nombre>Alassane</nombre>
+      <id type="integer">151</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>grainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-23T17:05:00Z</created-at>
+    <comentario-id type="integer">405</comentario-id>
+    <id type="integer">406</id>
+    <textoes>Gracias Marjorie. Le mandar&#233; mas tarde el programa de la formacion que todavia no esta disponible
+</textoes>
+    <tituloes>comentario Marjorie</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-23T16:31:00Z</created-at>
+    <comentario-id type="integer">401</comentario-id>
+    <id type="integer">402</id>
+    <textoes>&#191;Y qu&#233; piensa de la l&#237;nea de tiempo como una 
+herramienta pedag&#243;gica? debates que surgieron de 
+la l&#237;nea de tiempo? Capaz de identificar los 
+problemas relacionados con el papel de la mujer en 
+la sociedad? 
+</textoes>
+    <tituloes>respuesta</tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-23T16:27:00Z</created-at>
+    <comentario-id type="integer">404</comentario-id>
+    <id type="integer">405</id>
+    <textoes>Este taller sobre la metodolog&#237;a de Paulo Freire 
+ser&#225; un momento importante para la comprensi&#243;n del 
+m&#233;todo constructivista. Si desea hacernos llegar 
+el programa de esta reuni&#243;n para que podamos 
+ayudar a distancia. Aprendizaje de nuevos m&#233;todos 
+de alfabetizaci&#243;n requiere de paciencia. Y tambi&#233;n 
+el momento de reconstruir y replantear lo que 
+estamos acostumbrados.
+</textoes>
+    <tituloes>respuesta</tituloes>
+    <usuarioforo>
+      <nombre>Marjorie</nombre>
+      <id type="integer">160</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>marjorie@botelho.eti.br</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-23T09:50:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">407</id>
+    <textoes>Ola! 
+Desejamos que estejam todos e todas bem... 
+
+ainda n&#227;o iniciamos no Rio uma turma com 
+alfabetiza&#231;&#227;o e g&#234;nero. Estamos dialogando com 
+a UFRJ as possibilidades e, estamos por aqui 
+(no CEASM)com a perspectiva de abertura de 
+uma turma s&#243; de mulheres a partir de setembro. 
+
+Quanto as ferramentas apresentadas... a linha 
+do tempo &#233; uma ferramenta que j&#225; utilz&#225;vamos 
+em nossas atividades. Estamos aguardando a 
+confirma&#231;&#227;o da UFRJ e a confirma&#231;&#227;o da turma 
+no CEASM para aplicarmos a proposta da ficha 
+de cultura partindo do g&#234;nero, como indicado 
+no encontro internacional. 
+
+N&#227;o vemos a hora de come&#231;ar!!! 
+Mas al&#233;m da falta de recursos, temos os 
+conflitos pol&#237;ticos... 
+
+mas, seguimos caminhando. 
+
+beijos a todos e todas e at&#233; amanh&#227;!!!
+</textoes>
+    <tituloes>pergunta 1</tituloes>
+    <usuarioforo>
+      <nombre>Soraia</nombre>
+      <id type="integer">147</id>
+      <equipo-id type="integer">17</equipo-id>
+      <email>soraia.db@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-22T18:31:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">404</id>
+    <textoes>Lamento no poder responder a las preguntas del intercambio. A causa de las dificultades del pre-financiamiento ya evocadas en otros mensajes y el cierre de las clases de alfabetizaci&#243;n, todav&#237;a no hemos podido realizar este a&#241;o la sesi&#243;n prevista. Pero hicimos una restituci&#243;n con Awa durante el &#250;ltimo taller de lideranza femenina. Un taller sobre la metodolog&#237;a de Paolo Freire esta previsto para el mes de julio con el objetivo de tomar nuevas disposiciones para el nuevo periodo de alfabetizaci&#243;n que cubre la estaci&#243;n seca. Actualmente es la estaci&#243;n de lluvias y las asociaciones no tienen espacios adecuados para esta formaci&#243;n. Por eso la alfabetizaci&#243;n se realiza durante la estaci&#243;n seca, bajo los &#225;rboles o bajo alg&#250;n dep&#243;sito. 
+Entonces me es dif&#237;cil de responder a estas preguntas pues todav&#237;a no he trabajado el m&#233;todo. 
+
+En la restituci&#243;n realizada en el Centro Djoliba, hubo muchas preguntas sobre los medios financieros y la adaptaci&#243;n de las mujeres y las facilitadotas a este nuevo m&#233;todo. La formaci&#243;n prevista en julio puede ser un espacio para proponer soluciones? la organizaci&#243;n interna de las asociaciones nos permitir&#225; ver mas claro. 
+Espero poder estar en la oficina ma&#241;ana para ver como funcionan los intercambios. 
+Todas mis disculpas 
+Jeanne d&#8217;Arc 
+</textoes>
+    <tituloes>Bamako</tituloes>
+    <usuarioforo>
+      <nombre>Jeanne d'Arc Ballo</nombre>
+      <id type="integer">161</id>
+      <equipo-id type="integer">11</equipo-id>
+      <email>jeannedarcballo@yahoo.fr</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-21T21:15:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">403</id>
+    <textoes>Querid@s amig@s, 
+
+Como no estoy seguro de poder estar con ustedes 
+en el momento del forum 
+virtual del 23 de junio por problemas de 
+electricidad. Por estos lados uno 
+nunca sabe cu&#225;ndo tendr&#225; acceso a la 
+electricidad que se corta varias 
+veces en el d&#237;a. Por lo tal, el equipo de Pikine 
+comparte con ustedes lo 
+realizado desde el seminario Alfa con PG! 
+
+1.	La restituci&#243;n 
+
+Se ha reunido a los miembros y amig@s de la 
+asociaci&#243;n GRAINE en la &#171; Casa 
+de la Mujer &#187;. Durante la restituci&#243;n se han 
+discutido los aspectos de la 
+educaci&#243;n popular del hecho que las clases de 
+alfabetizaci&#243;n son espacio 
+ciudadanos que permiten a las mujeres de 
+transformar sus realidades que 
+aprenden a leer. 
+Como permitir a la mujeres de ser productora de 
+temas generadores? Como en 
+base de esos temas, discutir y determinar las 
+palabras generadoras? Como 
+realizar materiales did&#225;cticos? Se ha hablado de 
+las herramientas como &#8220;la 
+l&#237;nea de tiempo individual, la ficha de cultura 
+y el m&#233;todo sil&#225;bico. Se 
+ha discutido el aspecto de bien generalmente los 
+manuales son 
+discriminatorio y generan subordinaci&#243;n. El 
+m&#233;todo es simple y f&#225;cil de 
+aplicaci&#243;n. 
+
+Esta restituci&#243;n fue facilitada por Oumy Ba et 
+Fatoumata Sy. El informe 
+esta disponible. 
+
+2.	Una sesi&#243;n de formaci&#243;n de 3 d&#237;as con la red 
+Suxxat de Rufisque con 27 
+facilitadoras en alfabetizaci&#243;n. 
+
+Esta formaci&#243;n aclaro a las facilitadoras la 
+terminolog&#237;a de androlog&#237;a, 
+es decir los principios de formaci&#243;n para 
+adultos. Despu&#233;s cada 
+participante fue invitada a analizar su material 
+de trabajo y todas han 
+concluido que los manuales son discriminatorios. 
+
+Las discusiones sobre el lugar de la mujer en 
+los proverbios han sido 
+debates interesantes. Las participantes se han 
+dado cuento tanto de los 
+buenos proverbios as&#237;a las mujeres como de los 
+malos. Esta formaci&#243;n 
+permiti&#243; a las participantes de interesarse a la 
+alfabetizaci&#243;n con 
+perspectiva de g&#233;nero. Para terminar la 
+formaci&#243;n las participantes han 
+hecho su l&#237;nea de tiempo que fue bautizado por 
+el grupo como &#8220;l&#237;neas del 
+camino&#8221;. Las mujeres han demostrado mucho 
+inter&#233;s en la herramienta. Se 
+han mostrado, igualmente, las videos de las 
+mujeres de Bamako, Pikine y 
+Marruecos. Las participantes han cuestionada 
+mucho sobre la red, lo que 
+hacen las mujeres? Sobre todo en Marruecos. 
+
+El grupo se ha puesto de acuerdo con la 
+organizaci&#243;n de dos d&#237;as en julio 
+mas de formaci&#243;n para profundizar los 
+conocimientos de las herramienta 
+&#8220;l&#237;neas del tiempos, ficha cultural,&#8230; pero 
+tambi&#233;n para seguir 
+cuestionando la imagen de la mujer en las 
+culturas. Se organizara tambi&#233;n 
+un secion de formaci&#243;n sobre los principios de 
+la ESS. 
+
+Esta sesi&#243;n de formaci&#243;n fue facilitada por Oumy 
+Ba et Alassane Faye. El 
+informe esta disponible. 
+
+3.	Agrupamiento de Wakhinane 
+
+Dos agrupamiento son en preparaci&#243;n para 
+comenzar los talleres de 
+alfabetizaci&#243;n en el mes de septiembre 2011, 
+despu&#233;s del ramad&#225;n. 
+
+El primer grupo ser&#225; facilitado por Fatimata 
+Sy. Un problema de local ha 
+surgido pero las mujeres han encontrado un local 
+en el barrio. 
+Actualmente el grupo esta negociando con el 
+propietario para poder 
+alquilar el local. 
+Las mesas, cillas y otro equipamiento necesario 
+ser&#225;n comprado en estos 
+meses. 
+
+El segundo grupo ser&#225; facilitado por Absa Mar. 
+El grupo est&#225; compuesto por 
+las mujeres de &#8220;La uni&#243;n de agrupamientos de 
+mujeres&#8221; de Pikine. Los 
+talleres ser&#225;n organizados en &#171; la Casa de la 
+Mujer &#187; de Pikine y 
+empezaran despu&#233;s del Ramad&#225;n. 
+
+4.	Agrupamiento de Ndiago 
+
+Un cuestonario ha sido realizado para determinar 
+de que manera las mujeres 
+administran sus ingreso y determinar quien toma 
+la decicion sobre esa 
+gestion ? 
+Un taller de an&#225;lisis con las mujeres ser&#225; 
+organizado. El grupo de Grand 
+Yoff trabajara de la misma forma. 
+
+
+El 19 de julio 2011 se organizara una salida a 
+la playa. Cada mujer y 
+chica ser&#225; acompa&#241;ada por su marido o amigo. Una 
+din&#225;mica ser&#225; organizada 
+en la cual las mujeres nos dir&#225;n; Si yo fuera 
+hombre que es lo que no 
+har&#237;a a las mujeres? 
+Y los hombres nos dir&#225;n; Si yo fuera mujer que 
+es lo que no me justar&#237;a 
+que me hagan? Veremos lo que dar&#225; ese ejercicio!! 
+
+5.	Impactos de la formaci&#243;n 
+
+Las negociaciones han sido fructuosa con el Club 
+UNESCO Martin Luther King 
+y una formaci&#243;n ser&#225; organizada para las mujeres 
+miembros de la 
+estructura, una formaci&#243;n de alfabetizaci&#243;n con 
+PG. Los t&#233;rminos de 
+referencia han sido enviados y aceptados. 
+
+Esta formaci&#243;n ser&#225; organizada despu&#233;s del 
+Ramad&#225;n, en septiembre 2011 y 
+ser&#225; facilitada por Oumy Ba, Fatimita Sy y 
+Alassane Faye. 
+
+La educaci&#243;n popular ha sido el hilo conductor 
+del referencial formativo 
+realizado por Alassane Faye. Ese referencial 
+ser&#225; utilizado para la 
+formaci&#243;n prevista del 27 de junio al 6 de julio 
+a Abomey (Benin) en la 
+cual 30 alfabetizadores ser&#225;n presentes. Esa 
+misma formaci&#243;n ser&#225; 
+organizada en Ouagadougou (Burkina Faso), Bamako 
+(Mali). Sera organizado 
+talleres sobre las l&#237;neas de tiempos, las fichas 
+culturales, lectura y 
+an&#225;lisis del material de alfabetizaci&#243;n. Ser&#225;n 
+organizados momentos de 
+debates sobres metodolog&#237;as alternativas,&#8230; 
+En cada pa&#237;s se har&#225;n experimentaciones en las 
+clases ya existentes para 
+que las mujeres y los hombres formados puedan 
+aplicar lo aprendido. 
+
+Esta actividad nos ha sido confiada por el 
+movimiento Africano des Chicos 
+y Jovenes Trabajadores s/c Enda juventud acci&#243;n. 
+</textoes>
+    <tituloes>ALPHA , GENRO Y ESS A PIKINE , 3 MESES DE OUARZ</tituloes>
+    <usuarioforo>
+      <nombre>Alassane Faye et Oumy Ba</nombre>
+      <id type="integer">163</id>
+      <equipo-id type="integer">16</equipo-id>
+      <email>fgrainesenegal@gmail.com</email>
+    </usuarioforo>
+  </comentario>
+  <comentario>
+    <created-at type="datetime">2011-06-20T18:14:00Z</created-at>
+    <comentario-id type="integer" nil="true"></comentario-id>
+    <id type="integer">401</id>
+    <textoes>Desde el mes de mayo, hemos empezado la realizaci&#243;n de las l&#237;neas de tiempos individuales con el grupo de mujeres de los lunes solidarios. Hemos planificado 3 talleres de 2h para esa actividad. Ada estuvo para el taller numero 2 y la sic&#243;loga que trabaja con nosotras a esta para el taller numero 3. Cada mujer pudo realizar su l&#237;nea a su ritmo con fotos personales y/o dibujos. Un acompa&#241;amiento individual fue necesario a lo largo de la actividad.
+</textoes>
+    <tituloes>Pregunta 1</tituloes>
+    <usuarioforo>
+      <nombre>Karine et Jennifer</nombre>
+      <id type="integer">159</id>
+      <equipo-id type="integer">15</equipo-id>
+      <email>info@archipelia.org</email>
+    </usuarioforo>
+  </comentario>
+</comentarios>
