@@ -28,6 +28,16 @@ class ReticulaRet implements TreeDisplayable{
 
 	}
 	
+	public int dameUltimoIdComentario(){
+		int ultimo=0;
+		for(ComentarioForo comentario:comentariosExistentesDB){
+			if(comentario.id>ultimo) ultimo=comentario.id;
+		}
+		return ultimo;
+			
+	
+	}
+	
 	private void resetReticulaConComentariosDB(boolean menos) {
 		loadComentariosXML();
 		cc = new CalculoProfundidadColumna(mensajes);
