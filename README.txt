@@ -1,0 +1,1 @@
+Clone repo and open index.html with your favourite html5 navigator
