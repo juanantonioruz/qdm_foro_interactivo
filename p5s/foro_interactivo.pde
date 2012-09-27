@@ -31,15 +31,7 @@ void setup(){
 Refresco r=new Refresco();
 void draw(){
 	background(100);
-	if(frameCount%(30*1)==0){
-	println("ultimo Comentario: "+reticulaRet.dameUltimoIdComentario());
-		CeldaRet c=reticulaRet.celdaSeleccionada;
-		reticulaRet.incluyeXML("foros_new.xml",c.comentario);
-		navegadorTemporalComentarios.init(reticulaRet.comentariosOrdenadosFecha);
-		navegadorUsuarios.init(reticulaRet.usuarios);
-		log.info("alla va!");
-		r.reset();
-	}
+
 	r.display();
 	
 	noStroke();
